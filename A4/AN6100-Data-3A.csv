@@ -1,0 +1,1001 @@
+SN,Lastname,Firstname,Gender,Height,Weight,Passport ID,Country,Job Title,Income Annual,Hobby,Car Brand,Age,Num Covid Shots
+1,Stark,Ann,F,1.41,48.76,Y5406427J,Hungary,Circulating Process Inspector,117901,Sewing,-,36.0,1.0
+2,Mcmillan,Christopher,M,1.94,50.3,O3864865Z,Thailand,Silverware Assembler,9295,Dancing,-,15.0,1.0
+3,Fischer,Robert,M,1.77,72.36,O5971567A,Vietnam,Ride Operator,82926,Volunteer Work,Mini,21.0,0.0
+4,Salinas,Madison,F,1.39,50.38,U3705002P,Germany,Veneer Jointer,88343,Skiing,-,37.0,0.0
+5,Cook,Johnny,M,1.52,65.04,G2366952K,Indonesia,Computerized Environmental Control Installer,27945,Entertaining,-,17.0,1.0
+6,Watkins,Stephanie,F,1.39,46.39,69989667Z,Mexico,"Utility Supervisor, Boat And Plant",38369,Golf,-,33.0,1.0
+7,Livingston,Kenneth,M,1.73,55.44,T0237699X,Spain,Ham-Rolling-Machine Operator,65758,Volunteer Work,Ford,15.0,1.0
+8,Cunningham,Cheryl,F,1.82,55.18,B4385541A,Sweden,Head Sawyer,27789,Working on Cars,-,42.0,2.0
+9,Stanley,Andrew,M,1.94,48.36,W5087632M,Luxembourg,Block Feeder,37739,Sleeping,-,22.0,0.0
+10,Medina,Gabriel,M,1.75,67.29,R9835942Q,Thailand,Fingernail Former,94169,Cooking,-,22.0,0.0
+11,Lamb,Helen,F,1.39,39.32,44734331Y,Spain,Fire-Investigation Lieutenant,34158,Painting,-,21.0,0.0
+12,Arnold,Nancy,F,1.39,41.97,38930133B,Argentina,Slime-Plant Operator Ii,17302,Computer Games,-,28.0,2.0
+13,Irwin,Randy,M,1.52,54.13,72559732U,Cyprus,"Mechanic, Endless Track Vehicle",22731,Swimming,-,25.0,2.0
+14,Weiss,Carolyn,F,1.57,42.27,B5404787R,United Kingdom,Screener Operator,12946,Running,-,32.0,1.0
+15,Oneill,Angela,F,1.75,39.32,67300214T,Netherlands,"Test Technician, Semiconductor Processing Equipment",45072,Socializing,Chevrolet,27.0,0.0
+16,Atkinson,Eugene,M,1.94,78.3,64238405D,France,"Inspector And Adjuster, Golf Club Head",25521,Working on Cars,-,28.0,1.0
+17,Allen,Rachel,F,1.68,49.77,D6103381E,Vietnam,"Instrument Mechanic, Weapons System",8012,Animal Care,-,45.0,1.0
+18,Freeman,Kathleen,F,1.47,47.4,71769632P,Mexico,Primer Supervisor,30574,Sleeping,-,21.0,1.0
+19,Whitfield,Sharon,F,1.51,39.32,19587653J,Lithuania,Loft Worker Apprentice,116510,Beach,-,34.0,0.0
+20,Mayo,Bruce,M,1.71,74.34,R7110805C,France,"Flat Surfacer, Jewel",6201,Gardening,-,25.0,1.0
+21,Bender,Diane,F,1.63,45.29,07228763I,Belgium,Lead-Oxide-Mill Tender,109976,Shopping,Aston Martin,30.0,0.0
+22,Mooney,Heather,F,1.65,39.32,08651736U,Sweden,Street Cleaner,66044,Computer Games,BMW,15.0,1.0
+23,Chan,Arthur,M,1.67,58.17,J6756616K,China,Beater-Engineer Helper,95824,Golf,Kia,25.0,1.0
+24,England,Eric,M,1.88,48.36,W2554028T,Greece,"Builder, Beam",30524,Sewing,-,35.0,1.0
+25,Walton,Tyler,M,1.66,57.68,87263932T,Thailand,Cd-Mixer,54064,Tennis,Koenigsegg,22.0,0.0
+26,Hendricks,Terry,M,1.77,68.98,67772466B,Czechia,Title Analyst,41586,Tennis,-,16.0,2.0
+27,Velez,Terry,M,1.71,57.41,73386737H,China,Photographic-Machine Operator,27181,Housework,-,26.0,0.0
+28,George,Daniel,M,1.79,50.54,A0978193R,Netherlands,"Cut-Off-Saw Operator, Pipe Blanks",64503,Housework,-,22.0,0.0
+29,Cantrell,Harold,M,1.82,52.34,A9736678L,Italy,Fabric Stretcher,176701,Sewing,Ram,24.0,1.0
+30,White,Melissa,F,1.57,40.07,N0429324T,Lithuania,Hydraulic-Pressure-Auto-Frettage-Machine-Operator Supervisor,35834,Exercise,-,29.0,0.0
+31,Gardner,Danielle,F,1.55,49.27,20985851U,Singapore,Table Worker,42214,Volunteer Work,McLaren,36.0,1.0
+32,Ortega,Janice,F,1.68,39.32,B3043100G,Denmark,"Group Leader, Semiconductor Testing",117630,Watching TV,-,26.0,1.0
+33,Sweeney,Michelle,F,1.67,45.75,V9753070L,Australia,Print-Shop Helper,48242,Animal Care,Honda,29.0,1.0
+34,Pugh,Kevin,M,1.68,48.36,65303172E,India,Fast-Foods Worker,13723,Billiards,-,38.0,1.0
+35,Gould,Judith,F,1.65,45.86,Z8757407U,India,Polymerization-Kettle Operator,19440,Animal Care,-,32.0,0.0
+36,Nichols,Pamela,F,1.59,52.85,55465098X,Sweden,Glass-Furnace Tender,35834,Working on Cars,-,35.0,2.0
+37,Hammond,Diane,F,1.57,46.38,A6456577F,United States of America,"Supervisor, Home Restoration Service",43846,Going to Movies,-,33.0,2.0
+38,Owen,Martha,F,1.45,46.78,39648182F,Malta,"Detective, Narcotics And Vice",31459,Relaxing,-,34.0,1.0
+39,Hawkins,Ethan,M,1.93,60.93,A1013946N,Czechia,Housecleaner,38407,Bowling,-,20.0,1.0
+40,Sampson,Helen,F,1.64,47.09,W6071836E,Portugal,Potato-Chip Frier,12252,Running,-,31.0,1.0
+41,Harrell,Lawrence,M,1.89,53.9,85992270I,Thailand,Check Writer,49795,Swimming,Audi,28.0,1.0
+42,Villarreal,Katherine,F,1.68,46.3,84014307A,Romania,Computer Processing Scheduler,24099,Sleeping,-,31.0,1.0
+43,Mcclain,Denise,F,1.6,47.08,22168244W,Estonia,Refractory-Grinder Operator,169531,Listening to Music,-,40.0,2.0
+44,Collins,Albert,M,1.72,58.74,D4570692D,Slovenia,"Supervisor, Drying And Winding",12353,Playing Cards,-,30.0,0.0
+45,Watkins,Jeffrey,M,1.88,58.78,P8803042D,Thailand,Dough-Mixer Operator,80585,Animal Care,-,19.0,1.0
+46,Clements,Christopher,M,1.88,78.72,14058056N,Czechia,Beater-Engineer Helper,25661,Crafts,-,26.0,1.0
+47,Tanner,Jose,M,1.69,75.45,63126225D,Cyprus,Beading Sawyer,104669,Boating,Geely,35.0,0.0
+48,Underwood,Jane,F,1.82,47.45,26293501W,Croatia,Vector Control Assistant,28101,Reading,-,27.0,1.0
+49,Davenport,Ashley,F,1.65,51.39,42613344V,France,Stripper Apprentice,19565,Watching Sports,-,36.0,0.0
+50,Valenzuela,Deborah,F,1.81,49.38,F3282918B,Australia,Hose-Tubing Backer,28602,Tennis,-,37.0,2.0
+51,Benton,Melissa,F,1.53,57.38,P6496819D,Mexico,Machine Feeder,51371,Team Sports,Peugeot,31.0,0.0
+52,Osborne,Wayne,M,1.68,66.94,J3755462L,South Africa,Fire-Investigation Lieutenant,87074,Painting,-,20.0,0.0
+53,Ortega,Gary,M,1.85,48.92,Z1229875T,Lithuania,"Steward/Stewardess, Railroad Dining Car",18612,Watching TV,-,28.0,0.0
+54,Crane,Theresa,F,1.82,39.32,H6038839M,Slovakia,Fire-Hose Curer,54108,Billiards,-,29.0,0.0
+55,Barber,Samantha,F,1.82,39.32,Q0753021I,Spain,Tin-Whiz-Machine Operator,89655,Computer Games,Rolls Royce,28.0,0.0
+56,Gordon,Sean,M,1.82,50.38,13023720J,Romania,Machine-Adjuster Leader,39976,Theater,-,29.0,1.0
+57,English,Bruce,M,1.82,67.62,76922135Y,Belgium,Veterinary Epidemiologist,59995,Theater,GMC,36.0,0.0
+58,Bartlett,Carolyn,F,1.72,57.0,G3364702I,Italy,"Inspector, Surgical Instruments",71572,Computer Games,-,27.0,0.0
+59,Spears,Ann,F,1.62,39.32,12502374D,Luxembourg,Harness-And-Bag Inspector,6451,Going to Movies,-,27.0,0.0
+60,Chapman,Jacob,M,1.94,57.38,T0620077I,France,Blending-Line Attendant,31143,Family Time,-,25.0,1.0
+61,Sandoval,Diana,F,1.58,52.45,P5978227L,Czechia,Portable Sawyer,11376,Bicycling,-,29.0,1.0
+62,Harmon,Eric,M,1.71,82.32,V0647468E,Latvia,Physicist,8353,Going to Movies,-,15.0,1.0
+63,Macdonald,Sharon,F,1.41,40.35,58552376E,Austria,Garde Manger,30686,Camping,-,26.0,0.0
+64,Solis,Brandon,M,1.8,63.93,69882265P,Malta,"Director, Fundraising",29665,Horseback Riding,-,17.0,1.0
+65,Howard,Madison,F,1.43,39.32,Y6983392P,United States of America,Chemical Preparer,26727,Walking,-,34.0,2.0
+66,Morales,Melissa,F,1.69,39.32,E9186043I,Croatia,Fish Hatchery Worker,101925,Socializing,-,49.0,1.0
+67,Vaughan,Raymond,M,1.82,67.24,A3888723E,Slovakia,Rocket-Engine-Component Mechanic,16941,Relaxing,-,21.0,1.0
+68,Haynes,Sharon,F,1.43,42.92,K5640148O,Austria,Park Naturalist,63651,Cooking,Chevrolet,32.0,1.0
+69,Harrington,Dylan,M,1.82,48.36,R2932326A,Portugal,Production Machine Tender,135379,Housework,Dodge,26.0,0.0
+70,Castillo,Shirley,F,1.67,39.32,K5988129V,Finland,Door-Closer Mechanic,31045,Socializing,-,33.0,0.0
+71,Hardy,Cynthia,F,1.61,47.46,21337893V,Spain,Press Helper,27465,Tennis,-,29.0,1.0
+72,Hughes,Lauren,F,1.55,47.39,03914966O,Japan,Wastewater-Treatment-Plant Attendant,52057,Watching TV,-,37.0,1.0
+73,Reid,Betty,F,1.8,42.28,Q8332900R,India,Wrapper Selector,19913,Gardening,-,33.0,1.0
+74,Douglas,Beverly,F,1.5,45.02,86303211O,Slovakia,Foot Straightener,41436,Reading,-,31.0,0.0
+75,Herrera,Sarah,F,1.5,42.01,Y6908212K,Latvia,Salvage Repairer Ii,135747,Walking,Mini,31.0,2.0
+76,Carr,Larry,M,1.7,65.68,86511215H,Croatia,Dust-Mop Maker,8138,Boating,-,27.0,2.0
+77,Contreras,Vincent,M,1.87,71.01,T5707470S,Japan,Hair-Sample Matcher,44144,Theater,Alfa Romeo,26.0,0.0
+78,Hart,Gregory,M,1.94,60.12,A3821286T,France,"Assembler, Internal Combustion Engine",66057,Listening to Music,-,32.0,2.0
+79,Goodman,Lisa,F,1.67,47.62,03789304B,Canada,Enrobing-Machine Operator,118365,Reading,-,38.0,0.0
+80,Hogan,Jacqueline,F,1.62,51.17,39503756P,Egypt,Lubrication-Equipment Servicer,112683,Volunteer Work,-,33.0,1.0
+81,Moran,Helen,F,1.67,40.31,N8384027Q,Germany,Relay-Record Clerk,12702,Beach,-,34.0,1.0
+82,Tucker,Elizabeth,F,1.67,41.77,20018828O,Mexico,Accounting Director,47334,Reading,Maserati,32.0,0.0
+83,Whitfield,Deborah,F,1.63,39.32,72689525C,Croatia,Motor-And-Generator-Brush Maker,32300,Going to Movies,-,38.0,0.0
+84,Kim,Jeremy,M,1.89,49.63,B3320189H,Turkey,"Supervisor, Shop",92621,Writing,-,24.0,1.0
+85,Fry,Roger,M,1.62,63.62,67402998X,Brazil,Covering-Machine Operator,25924,Skiing,-,19.0,1.0
+86,Lara,Melissa,F,1.73,53.19,06457183Z,Czechia,Clarifier Operator,23246,Entertaining,-,35.0,0.0
+87,Vinson,Bryan,M,1.54,59.78,U2819274T,Croatia,"Sales Representative, Advertising",59615,Horseback Riding,-,21.0,0.0
+88,Mitchell,Janet,F,1.55,46.16,P2563941R,Russia,Skein-Yarn Drier,10476,Watching Sports,-,42.0,1.0
+89,Solomon,Gregory,M,1.94,48.36,A9485092E,Croatia,Glued Wood Tester,43536,Tennis,-,26.0,1.0
+90,Barrera,Billy,M,1.7,57.74,C9005734N,Belgium,"Supervisor, Brineyard",42009,Eating Out,-,43.0,1.0
+91,Bond,Nicole,F,1.54,41.16,E1294147N,France,Rug Cleaner,13917,Golf,-,28.0,0.0
+92,Kent,Angela,F,1.68,42.32,N5752891J,Australia,Case Finisher,72920,Beach,-,39.0,1.0
+93,Juarez,Henry,M,1.61,60.51,82766270L,United Kingdom,Recreation-Facility Attendant,88201,Shopping,Mazda,39.0,1.0
+94,Owens,Danielle,F,1.54,46.19,45901587L,Japan,Grinding-Wheel Inspector,64882,Tennis,-,30.0,0.0
+95,Garza,Gabriel,M,1.73,48.36,U4411625I,Singapore,Millwright,57482,Motorcycling,-,33.0,0.0
+96,Kerr,Michelle,F,1.68,40.48,09626678M,Germany,Churn Tender,17076,Sewing,-,30.0,0.0
+97,Edwards,Aaron,M,1.92,70.93,31968808V,Luxembourg,Account Collector,52088,Playing Music,Fiat,41.0,1.0
+98,Snider,Megan,F,1.39,39.32,I9775727J,Finland,Salon Manager,56636,Swimming,-,34.0,0.0
+99,Le,Janet,F,1.57,39.32,A0405786A,Ireland,Road-Roller Operator,88886,Beach,-,27.0,1.0
+100,Kennedy,Brandon,M,1.88,59.09,L3711153I,United Kingdom,"Supervisor, Yarn Preparation",62950,Exercise,-,21.0,1.0
+101,Sykes,Emma,F,1.76,46.92,B8205729K,Italy,"Sales Agent, Pest Control Service",70668,Exercise,-,22.0,0.0
+102,Rosales,Timothy,M,1.58,66.41,58445721F,Slovakia,Dental-Amalgam Processor,15697,Housework,-,36.0,0.0
+103,Kane,Teresa,F,1.58,39.32,Q0963540Y,Croatia,Electrotype Servicer,23729,Entertaining,-,35.0,0.0
+104,Grimes,George,M,1.52,51.5,J0365855K,Netherlands,Scrap Baller,6851,Hunting,-,22.0,1.0
+105,Webb,Steven,M,1.66,64.81,K5770055I,Italy,Tool Dresser,16209,Walking,-,32.0,1.0
+106,Lane,Alexis,F,1.47,50.34,Z7279112D,Hungary,Septic-Tank Installer,13280,Watching Sports,-,22.0,1.0
+107,Rutledge,Ronald,M,1.85,53.05,86654406H,Portugal,Brim Curler,36624,Gardening,-,27.0,2.0
+108,Burton,Bradley,M,1.94,49.46,A2612394M,United Kingdom,Magnetic-Tape-Composer Operator,51620,Entertaining,-,20.0,1.0
+109,Slater,Maria,F,1.68,60.6,G7178029A,Russia,Shoe-Repairer Helper,19261,Gardening,-,28.0,0.0
+110,Robertson,Nancy,F,1.39,41.44,86220629E,South Africa,Char-Dust Cleaner And Salvager,25537,Traveling,-,27.0,0.0
+111,Obrien,Barbara,F,1.7,39.32,47151296J,Chile,Customer-Equipment Engineer,141780,Theater,-,42.0,1.0
+112,Johnson,Ralph,M,1.94,55.56,H2337436P,Thailand,Shop Supervisor,39809,Exercise,-,25.0,1.0
+113,Bell,Brandon,M,1.91,48.36,37043024W,Indonesia,"Salesperson, Furs",91559,Working on Cars,Suzuki,15.0,0.0
+114,Howe,Shirley,F,1.59,52.74,A9747427U,Egypt,Wharf Tender,13514,Playing Cards,-,30.0,1.0
+115,Vasquez,Diane,F,1.39,39.32,F3414596I,France,Infantry Operations Specialist,182394,Family Time,-,35.0,0.0
+116,Ewing,Anna,F,1.58,39.91,58624666Q,Romania,Farm-Equipment-Mechanic Apprentice,68964,Eating Out,-,35.0,1.0
+117,Curtis,David,M,1.71,59.78,07900063N,Chile,Safe-Deposit-Box Rental Clerk,6520,Exercise,-,15.0,1.0
+118,Walton,John,M,1.57,59.04,X2422143E,South Africa,Print-Line Operator,26846,Tennis,-,16.0,0.0
+119,Weeks,Jerry,M,1.91,48.36,U1466849K,Thailand,"Engraver, Rubber",11081,Cooking,-,22.0,1.0
+120,Donovan,Helen,F,1.69,39.32,U7919463J,Saudi Arabia,Screener Operator,59865,Playing Music,-,33.0,1.0
+121,Rosario,Abigail,F,1.82,46.85,41619816C,Italy,Water-Meter Installer,16646,Skiing,-,29.0,1.0
+122,Perry,Bradley,M,1.87,55.33,I6882922U,Argentina,"Lining Maker, Lockstitch",40390,Bowling,-,25.0,0.0
+123,Lara,Raymond,M,1.67,74.16,Q3880548C,United Kingdom,Forms Analyst,10184,Billiards,-,20.0,0.0
+124,Robinson,Dennis,M,1.75,52.77,E9588607L,Senegal,"Sewing-Machine Operator, Paper Bags",26014,Reading,-,20.0,1.0
+125,Doyle,Terry,M,1.69,56.28,I7161182G,Denmark,Logging-Equipment Mechanic,11822,Shopping,-,36.0,0.0
+126,Barlow,Nancy,F,1.69,40.84,51091294W,Bulgaria,"Supervisor, Word Processing",12259,Volunteer Work,-,32.0,0.0
+127,Perez,Amber,F,1.77,48.63,F4706565B,India,Maintenance Inspector,22893,Entertaining,-,36.0,1.0
+128,Turner,Megan,F,1.39,42.97,28125862E,Finland,Diesel-Engine Tester,122422,Traveling,-,21.0,0.0
+129,Holt,Heather,F,1.39,40.97,P6415988J,Sweden,"Inspector, Motors And Generators",25324,Motorcycling,-,30.0,1.0
+130,Jarvis,Christine,F,1.58,50.43,81931977N,Indonesia,Extractor Loader And Unloader,73480,Working on Cars,Aston Martin,37.0,1.0
+131,Graves,Jeremy,M,1.94,64.58,54170139O,Chile,Gear Inspector,9213,Tennis,-,28.0,0.0
+132,Newman,Angela,F,1.73,51.26,U9060353C,France,Taper,71847,Running,Pagani,38.0,0.0
+133,Kinney,Aaron,M,1.94,68.34,P1572246S,Slovakia,Scroll Assembler,39961,Working on Cars,-,32.0,0.0
+134,Love,Lawrence,M,1.94,48.36,23913814O,Malta,Corner Cutter,39880,Animal Care,-,17.0,1.0
+135,Floyd,Aaron,M,1.64,63.65,P7631385X,South Africa,Second Helper,22278,Gardening,-,35.0,0.0
+136,Clarke,Brandon,M,1.94,74.56,87502442E,Argentina,Lowerator Operator,88509,Computer Games,Saab,26.0,1.0
+137,Mccall,Gerald,M,1.87,54.16,59272828Z,Romania,"Centrifuge Operator, Plasma Processing",10013,Bicycling,-,33.0,1.0
+138,Garner,Samuel,M,1.52,66.11,R9156749O,Italy,Tare Weigher,196175,Fishing,Mini,31.0,1.0
+139,Kent,Harold,M,1.85,48.36,E4646573K,Vietnam,Immigration Inspector,12321,Walking,-,23.0,0.0
+140,Nolan,Albert,M,1.94,59.4,B7409152M,South Korea,Carpenter-Labor Supervisor,33519,Dancing,-,33.0,0.0
+141,Roman,Eric,M,1.94,51.1,Q0234301G,United Kingdom,Cocoa-Powder-Mixer Operator,16478,Playing Cards,-,15.0,0.0
+142,Sandoval,Alan,M,1.86,49.04,A7436522D,India,"Manager, Contracts",128620,Listening to Music,Jeep,32.0,2.0
+143,Aguirre,Christian,M,1.53,65.16,J4047278F,South Korea,"Assembler, Internal Combustion Engine",21960,Working on Cars,-,46.0,1.0
+144,Parrish,Bobby,M,1.6,48.36,D3313995D,Italy,Magistrate,30912,Relaxing,-,31.0,0.0
+145,Whitfield,Sandra,F,1.68,43.21,I3082721Z,Singapore,"Inspector, Woodwind Instruments",20854,Hiking,-,34.0,0.0
+146,Carlson,Nathan,M,1.52,69.69,R7278600R,Denmark,Computer Peripheral Equipment Operator,10174,Reading,-,18.0,1.0
+147,Banks,Andrew,M,1.83,48.46,I2173018Y,United States of America,Wire-Transfer Clerk,56604,Crafts,Honda,19.0,0.0
+148,Key,Laura,F,1.39,44.02,U2032211S,Greece,Embossing-Machine Tender,23965,Swimming,-,32.0,1.0
+149,Rutledge,Rose,F,1.7,43.2,54141271P,South Africa,Fur-Storage Clerk,19497,Reading,-,38.0,1.0
+150,Salazar,Ralph,M,1.77,48.81,F3947534C,Indonesia,Compensator,47989,Boating,-,27.0,0.0
+151,Palmer,Joshua,M,1.94,80.83,44384311R,Lithuania,"Router Operator, Hand",87144,Volunteer Work,Mitsubishi,15.0,1.0
+152,Simon,Megan,F,1.82,45.92,Y7990732H,Singapore,Block Feeder,61653,Relaxing,-,34.0,0.0
+153,Hill,Matthew,M,1.67,52.95,Q8860676I,Russia,"Director, Community-Health Nursing",10094,Team Sports,-,28.0,0.0
+154,Donaldson,Stephanie,F,1.72,48.65,I6554824R,Lithuania,Yard Inspector,11379,Swimming,-,32.0,1.0
+155,Howell,Adam,M,1.74,62.45,23991871R,Poland,"Printer, Floor Covering",29800,Bowling,-,20.0,1.0
+156,Mcclain,Ashley,F,1.72,39.32,M2722709F,Spain,"Inspector, Agricultural Commodities",142939,Theater,-,38.0,1.0
+157,Travis,Philip,M,1.84,69.24,57994799F,Brazil,"Supervisor, Decorating",33563,Billiards,-,22.0,1.0
+158,Ware,Ann,F,1.65,40.11,51110615R,Lithuania,Chemical-Processing Supervisor,15256,Sewing,-,24.0,1.0
+159,Jones,Maria,F,1.74,50.77,66019168D,Portugal,Flame-Hardening-Machine Operator,9966,Relaxing,-,31.0,1.0
+160,Lowe,Jerry,M,1.86,77.21,G5023992X,Slovenia,"Finisher, Fiberglass Boat Parts",52911,Reading,-,15.0,0.0
+161,Witt,Billy,M,1.68,71.03,M5978357O,Latvia,Sample-Book Maker,22612,Painting,-,31.0,0.0
+162,Le,Debra,F,1.45,61.41,V0266340J,Indonesia,Flower Picker,39878,Sewing,-,22.0,1.0
+163,Rodriguez,Emily,F,1.62,40.93,42688440F,Senegal,Ticket Scheduler,52416,Skiing,-,40.0,1.0
+164,Pollard,Tyler,M,1.79,48.36,74593609X,Germany,"Colorist, Photography",95454,Exercise,TATA Motors,28.0,0.0
+165,Wells,Doris,F,1.65,39.32,X3824449F,Japan,Wet Mixer,14793,Motorcycling,-,17.0,1.0
+166,Gay,Nicholas,M,1.62,65.76,Q4918928O,Czechia,Sorter,13593,Watching TV,-,27.0,2.0
+167,Gutierrez,Ruth,F,1.75,39.32,B1933144L,Spain,Coal Sampler,26911,Volunteer Work,-,34.0,2.0
+168,Maddox,Willie,M,1.77,54.99,U9618587F,Portugal,Geophysical-Laboratory Chief,12110,Working on Cars,-,32.0,1.0
+169,Wong,Betty,F,1.68,39.32,36762832V,Czechia,"Supervisor, Split And Drum Room",33119,Painting,-,22.0,1.0
+170,Ratliff,Ruth,F,1.65,44.14,50764578Z,Germany,Title Examiner,118534,Playing Cards,-,42.0,1.0
+171,Conner,Paul,M,1.68,61.81,R6961410Y,Belgium,Burner,28067,Team Sports,-,35.0,0.0
+172,Cherry,Michael,M,1.74,51.64,67933909K,Greece,Material-Handling Supervisor,34638,Walking,-,20.0,1.0
+173,Daugherty,Larry,M,1.87,65.57,36392547A,Luxembourg,"Section Leader And Machine Setter, Polishing",132949,Skiing,-,36.0,0.0
+174,Pearson,Dorothy,F,1.65,48.37,43462939J,Netherlands,Drier Tender I,73893,Tennis,Infiniti,25.0,1.0
+175,Barlow,Hannah,F,1.67,47.86,C3703023Y,United Kingdom,"Tester, Electronic Scale",32289,Relaxing,-,21.0,2.0
+176,Landry,Kimberly,F,1.76,51.9,38186775L,Croatia,Collator Operator,100600,Sleeping,-,39.0,0.0
+177,Hunt,Sean,M,1.68,69.3,W4114450Q,Brazil,Chair Inspector And Leveler,88071,Walking,-,39.0,1.0
+178,Hester,Diana,F,1.48,41.06,39755679D,Chile,Circular-Sawyer Helper,23424,Crafts,-,49.0,2.0
+179,Dickerson,Scott,M,1.73,48.36,49466230N,Netherlands,Pumper Helper,24313,Bowling,-,34.0,0.0
+180,Rosa,Scott,M,1.94,48.36,37622237M,Indonesia,Lost-Charge-Card Clerk,11960,Exercise,-,41.0,1.0
+181,Howard,Maria,F,1.64,45.79,E4488740V,Sweden,"Finish Opener, Jewel Hole",32228,Bicycling,-,32.0,0.0
+182,Goff,Johnny,M,1.74,56.81,44576009P,Germany,Carpet Cutter I,40690,Computer Games,-,29.0,1.0
+183,Sykes,Dylan,M,1.76,63.61,68349236W,Slovenia,Blind-Slat-Stapling-Machine Operator,44080,Golf,Cadillac,27.0,1.0
+184,Norris,Heather,F,1.47,39.32,49696235E,France,Process-Area Supervisor,8498,Going to Movies,-,35.0,1.0
+185,George,Ethan,M,1.94,57.99,I6613562D,Brazil,Seed-Potato Arranger,86205,Crafts,-,27.0,1.0
+186,Barr,Diane,F,1.67,43.07,59079823A,Indonesia,Zoologist,36331,Entertaining,-,37.0,1.0
+187,Jacobs,Andrew,M,1.74,51.93,54892382E,Ireland,Line Maintainer,40439,Reading,-,24.0,1.0
+188,Mcconnell,Barbara,F,1.81,54.32,06315068D,Malta,"Director, Summer Sessions",18084,Socializing,-,34.0,1.0
+189,Fletcher,Andrew,M,1.79,48.36,L4820274H,Vietnam,"Cd-Reactor Operator, Head",55587,Housework,-,24.0,0.0
+190,Oneill,Helen,F,1.75,53.25,21039956N,Thailand,Wool Puller,12257,Running,-,35.0,0.0
+191,Byrd,Marilyn,F,1.73,39.5,53527705D,Argentina,Gold Burnisher,108242,Gardening,-,27.0,1.0
+192,Moran,Danielle,F,1.7,39.32,D2623889T,Portugal,Gun-Repair Clerk,186296,Painting,-,30.0,1.0
+193,Henry,Roger,M,1.78,55.41,D5285212X,Turkey,Orthotics Assistant,67008,Crafts,Subaru,28.0,1.0
+194,Burch,Zachary,M,1.85,74.95,V2329065H,Australia,"Stitcher, Special Machine",71544,Theater,-,35.0,0.0
+195,Marks,Emma,F,1.66,54.83,E9321569X,Cyprus,Pipe-Fitter Supervisor,43154,Beach,Jeep,30.0,0.0
+196,Gray,Julia,F,1.64,41.06,08971538K,Austria,Briquette-Machine-Operator Helper,104734,Watching Sports,-,28.0,1.0
+197,Valentine,Katherine,F,1.49,48.56,84921713Q,Germany,Dulser,33875,Listening to Music,-,23.0,0.0
+198,Vazquez,Dennis,M,1.7,73.6,J7901775S,South Korea,Clip Coater,15075,Billiards,-,15.0,0.0
+199,Merrill,Janet,F,1.39,40.46,S3724291U,Brazil,Pasting-Machine Operator,92744,Traveling,Dodge,25.0,0.0
+200,Farmer,Diane,F,1.58,49.36,B6353011S,Mexico,Roller,28215,Painting,-,42.0,1.0
+201,Tyler,Tyler,M,1.52,48.36,06889491P,Portugal,Upholstery Sewer,37506,Computer Games,-,22.0,1.0
+202,Molina,Lisa,F,1.82,54.12,26455447T,Austria,Photostat-Operator Helper,10325,Cooking,-,48.0,1.0
+203,Cameron,Kyle,M,1.61,68.61,T3597964X,Greece,"Cigar-Wrapper Tender, Automatic",105619,Bowling,-,30.0,1.0
+204,Morales,Terry,M,1.94,48.36,75281020W,Japan,"Sales Representative, Radiographic-Inspection Equipment And Services",63293,Crafts,Peugeot,29.0,0.0
+205,Walker,Roy,M,1.73,48.36,26328533T,Japan,Line Walker,31053,Camping,-,23.0,0.0
+206,Holcomb,Lauren,F,1.72,50.06,G9408023J,Russia,Plumber Apprentice,41978,Dancing,-,37.0,0.0
+207,Tran,Wayne,M,1.79,80.23,30947415Y,France,"Presser, Form",11507,Cooking,-,43.0,1.0
+208,Mason,Kenneth,M,1.94,87.4,12852893K,Chile,Production-Machine Tender,93638,Going to Movies,Jeep,16.0,2.0
+209,Woodward,Thomas,M,1.82,55.14,K1941319F,Japan,Mold Maker I,10067,Camping,-,34.0,1.0
+210,Hardin,Larry,M,1.94,62.07,O8707046Z,Austria,Finisher Operator,51055,Reading,-,38.0,1.0
+211,Stein,Samuel,M,1.63,56.34,I5786504U,Egypt,"Contour Wire Specialist, Denture",88327,Horseback Riding,-,45.0,1.0
+212,Mcclure,Frances,F,1.53,43.23,F0630259J,Japan,Scrum Master,116925,Relaxing,-,29.0,2.0
+213,Cummings,Linda,F,1.69,45.8,05534777N,France,Fire Captain,9012,Camping,-,31.0,1.0
+214,Luna,Angela,F,1.73,49.52,83113129K,Luxembourg,Centrifugal-Casting-Machine Operator Ii,6549,Gardening,-,25.0,1.0
+215,Little,Susan,F,1.82,54.36,I1859092D,Saudi Arabia,Athletic Trainer,45082,Watching TV,-,22.0,1.0
+216,Mccall,Janice,F,1.65,43.32,N4530844A,Portugal,Marine Oiler,26245,Skiing,-,25.0,0.0
+217,Wong,Christopher,M,1.83,56.31,79001850F,Russia,Customs Inspector,58580,Exercise,-,21.0,0.0
+218,Oneill,Alexander,M,1.92,66.1,O6109215L,Romania,Ordnance Engineer,24981,Walking,-,29.0,0.0
+219,Winters,Christopher,M,1.89,66.82,H6753323J,Spain,Rotary-Driller Helper,73017,Theater,Chevrolet,26.0,1.0
+220,Joseph,Bradley,M,1.84,62.05,A4615706C,Germany,"Installer, Soft Top",26638,Swimming,-,27.0,0.0
+221,Ayers,Vincent,M,1.74,48.36,09467182N,Portugal,Powder Loader,22419,Billiards,-,24.0,1.0
+222,Tillman,Jonathan,M,1.79,53.71,L5423287M,Germany,Meter Reader,32773,Computer Games,-,30.0,1.0
+223,Riddle,Sara,F,1.57,44.24,W1112178X,United States of America,"Sales Representative, Fuels",7840,Tennis,-,37.0,2.0
+224,Melton,Lawrence,M,1.59,54.0,E0725633A,Argentina,Block-Press Operator,55488,Billiards,Koenigsegg,30.0,1.0
+225,Willis,Jack,M,1.94,48.36,Z1671730V,United States of America,Lumber Scaler,17152,Billiards,-,29.0,1.0
+226,Ayala,Catherine,F,1.48,55.79,O6063036S,Russia,Quarry Plug-And-Feather Driller,46921,Writing,-,38.0,1.0
+227,Mcmillan,Ashley,F,1.64,53.68,X1414022H,Chile,"Supervisor, Wire-Rope Fabrication",10121,Eating Out,-,33.0,1.0
+228,Gilmore,Peter,M,1.67,64.06,55090518S,Portugal,Tuft-Machine Operator,30770,Team Sports,-,34.0,1.0
+229,Combs,Billy,M,1.94,77.47,12347700T,India,Lather,38628,Sleeping,-,45.0,2.0
+230,Church,Heather,F,1.6,49.28,63872191Z,Cyprus,Distiller I,53844,Sewing,Suzuki,31.0,1.0
+231,Head,Megan,F,1.82,44.37,63028008H,Vietnam,Carbonation Equipment Operator,11658,Painting,-,38.0,0.0
+232,Burton,Donna,F,1.56,48.76,Y2768167O,Netherlands,Tube-And-Manifold Builder,26712,Bicycling,-,21.0,1.0
+233,Mills,Charles,M,1.94,72.93,38309472Q,Bulgaria,Bullet-Assembly-Press Setter-Operator,34245,Hiking,-,31.0,0.0
+234,Jackson,Debra,F,1.54,56.75,B0639393D,Czechia,"Quilt Stuffer, Machine",8917,Boating,-,33.0,0.0
+235,Delacruz,Denise,F,1.82,39.32,N6589979G,Spain,Curtain-Stretcher Assembler,31906,Volunteer Work,-,27.0,0.0
+236,Suarez,Ashley,F,1.63,39.32,G2260962L,France,"Service Attendant, Sleeping Car",131139,Reading,Chrysler,29.0,0.0
+237,Greene,Nathan,M,1.71,58.3,Z2049206R,Saudi Arabia,Show Host/Hostess,8457,Sewing,-,45.0,1.0
+238,Stout,Margaret,F,1.74,55.3,29865590O,United Kingdom,Shellfish-Processing-Machine Tender,33979,Bicycling,-,25.0,1.0
+239,Love,Denise,F,1.81,47.08,40585167U,Russia,"Spot Picker, Molded Goods",42735,Playing Music,-,44.0,1.0
+240,Mack,Bruce,M,1.88,61.34,61214586F,Poland,"Tube Bender, Hand Ii",70961,Hunting,Mitsubishi,36.0,2.0
+241,Hancock,Madison,F,1.81,51.26,23684032J,Portugal,Straw-Hat-Washer Operator,11354,Dancing,-,37.0,0.0
+242,Vang,Kimberly,F,1.47,42.4,I3744276M,Singapore,Tray-Drier Operator,25522,Billiards,-,19.0,1.0
+243,Wiggins,Carl,M,1.76,51.79,X5087147C,Egypt,"Welding-Machine Operator, Ultrasonic",21940,Walking,-,25.0,1.0
+244,Benson,Madison,F,1.39,50.91,03438879E,Spain,Car Trimmer,13477,Tennis,-,32.0,2.0
+245,Cherry,Douglas,M,1.94,48.36,75082219I,Sweden,Coating-And-Baking Operator,27221,Billiards,-,36.0,1.0
+246,Morton,Janet,F,1.48,54.71,48684185M,Brazil,Polisher And Buffer Ii,84152,Running,-,34.0,1.0
+247,Hess,Carol,F,1.56,52.51,16637158R,United Kingdom,"Molder, Hand",73962,Beach,BMW,32.0,0.0
+248,Solis,Rebecca,F,1.43,55.4,73044340T,Mexico,Cellar Supervisor,25227,Camping,-,25.0,1.0
+249,Higgins,Gerald,M,1.94,57.15,79755817K,Croatia,Steam-Press Tender I,16872,Motorcycling,-,33.0,1.0
+250,Gallegos,Victoria,F,1.54,39.32,S8905283U,Latvia,Caster,14184,Working on Cars,-,36.0,1.0
+251,Moses,Richard,M,1.79,67.56,I6966801V,Poland,Brake Adjuster,84112,Horseback Riding,-,15.0,0.0
+252,Lindsey,Grace,F,1.64,45.61,Q0448198W,Italy,Paraffin-Plant Operator,56450,Horseback Riding,-,32.0,1.0
+253,Rosa,Teresa,F,1.76,39.32,C2952556C,Croatia,Collection Clerk,6936,Eating Out,-,21.0,1.0
+254,Glover,Betty,F,1.82,54.49,18031940G,Slovenia,Phonograph-Cartridge Assembler,11765,Exercise,-,25.0,0.0
+255,Norton,Jeffrey,M,1.7,48.36,37410557X,Belgium,Ice Cream Freezer Assistant,7987,Team Sports,-,31.0,1.0
+256,Mcfadden,Carol,F,1.48,47.91,Y9706532O,Germany,"Rug Cleaner, Machine",35580,Tennis,-,28.0,1.0
+257,Fitzgerald,Sandra,F,1.58,51.62,05227223T,South Africa,Type-Rolling-Machine Operator,17528,Relaxing,-,29.0,1.0
+258,Tanner,Debra,F,1.65,47.72,22631395Y,Egypt,"Police Lieutenant, Patrol",7569,Skiing,-,26.0,1.0
+259,Stewart,Diana,F,1.68,44.61,Q6840092U,Russia,"Cook, Short Order",64617,Bicycling,-,31.0,0.0
+260,Alexander,Andrea,F,1.67,44.9,Q6589379R,Lithuania,Slot-Tag Inserter,14490,Boating,-,25.0,1.0
+261,Richards,Edward,M,1.94,64.05,S3239432F,Chile,"Metal-Spraying-Machine Operator, Automatic I",67923,Team Sports,Alfa Romeo,40.0,1.0
+262,Mills,Megan,F,1.66,50.83,N9046760F,Brazil,"Battery Charger, Conveyor Line",19040,Family Time,-,30.0,0.0
+263,Page,Gregory,M,1.71,88.42,Z6208844D,Chile,Paint-Line Operator,24506,Playing Music,-,27.0,1.0
+264,Valentine,Eugene,M,1.63,76.83,H2424099O,India,Biological Photographer,67626,Crafts,Hyundai,24.0,2.0
+265,Mcgee,Carolyn,F,1.39,40.43,59472376H,Bulgaria,Tape-Fastener-Machine Operator,29035,Tennis,-,37.0,2.0
+266,Kerr,Sara,F,1.75,46.18,46249814M,Hungary,"Radiologic Technologist, Chief",23155,Shopping,-,30.0,1.0
+267,Burks,Alice,F,1.74,46.48,07736858E,Netherlands,Duplicator-Punch Operator,13010,Playing Cards,-,34.0,1.0
+268,Ayala,Jessica,F,1.74,42.74,A0742414E,Spain,Grain-Drier Operator,94830,Motorcycling,-,34.0,0.0
+269,Higgins,Nathan,M,1.94,48.36,72265361Q,India,Drummer,12314,Sleeping,-,17.0,0.0
+270,Acevedo,Paul,M,1.9,55.61,21571901N,Sweden,Laboratory Supervisor,7251,Eating Out,-,31.0,1.0
+271,Gilmore,Austin,M,1.54,55.51,09874651M,Lithuania,Furnace-And-Wash-Equipment Operator,14262,Socializing,-,17.0,1.0
+272,Maxwell,Madison,F,1.7,46.85,G9839236V,Romania,Char-Dust Cleaner And Salvager,69255,Crafts,-,32.0,0.0
+273,Hinton,Nicole,F,1.4,50.19,78867732B,Ireland,"Side Laster, Cement",88493,Theater,Toyota,34.0,1.0
+274,Reynolds,Evelyn,F,1.51,50.28,O7693223Z,Slovenia,"Printer, Floor Covering",54574,Bicycling,-,44.0,1.0
+275,Freeman,Christopher,M,1.92,54.25,35732853C,France,"Spooler, Sequins",229108,Housework,-,42.0,1.0
+276,Kim,Anthony,M,1.93,57.28,80353604F,Greece,Yarding Engineer,17816,Entertaining,-,25.0,1.0
+277,Lott,Marie,F,1.82,47.83,W1805135Z,France,Mill Operator,11949,Boating,-,28.0,0.0
+278,Holt,Jack,M,1.74,67.36,A9173793T,Chile,"Painter Helper, Sign",31981,Hunting,-,24.0,1.0
+279,Davidson,Victoria,F,1.59,39.32,61569060R,Malta,"Repairer, Pens And Pencils",146008,Beach,-,25.0,1.0
+280,Erickson,Barbara,F,1.57,39.32,77432079Y,South Korea,Wrinkle Chaser,17871,Watching Sports,-,25.0,0.0
+281,Harris,Judy,F,1.55,40.47,L6936586D,United Kingdom,Pulp-Drier Firer,16532,Sewing,-,44.0,1.0
+282,Sweet,Sandra,F,1.69,50.78,G1213367P,China,Hat-Stock-Laminating-Machine Operator,115922,Entertaining,Nissan,31.0,0.0
+283,Hughes,Alice,F,1.82,53.68,M9592711J,France,Cocoa-Powder-Mixer Operator,99511,Watching Sports,-,20.0,1.0
+284,Williamson,Diane,F,1.7,39.32,O0435788F,Slovakia,Lease-Out Worker,42851,Going to Movies,-,43.0,1.0
+285,Guerra,Doris,F,1.58,45.4,V0230468N,Germany,Nitrator Operator,13375,Beach,-,29.0,0.0
+286,Sandoval,Cynthia,F,1.58,61.29,41583818G,Senegal,Patternmaker,19518,Motorcycling,-,24.0,1.0
+287,Robertson,Carl,M,1.89,58.9,D6866431V,Spain,Depositing-Machine Operator,60102,Computer Games,-,30.0,1.0
+288,Buchanan,Brandon,M,1.94,48.36,Y2064945V,Italy,Multi-Operation-Forming-Machine Operator I,17657,Running,-,35.0,0.0
+289,Snyder,Carol,F,1.56,39.32,Q7054507O,Turkey,"Tester, Semiconductor Packages",110623,Motorcycling,-,25.0,1.0
+290,Odonnell,Mark,M,1.94,62.69,42221361S,Hungary,Paper-Core-Machine Operator,43579,Gardening,-,22.0,0.0
+291,Cooley,Richard,M,1.94,56.85,84919933U,Italy,Hat-Block Maker,44652,Relaxing,-,33.0,2.0
+292,Talley,Kimberly,F,1.53,41.98,39284022J,Turkey,Pole-Peeling-Machine-Operator Helper,24071,Shopping,-,29.0,0.0
+293,Best,Angela,F,1.58,41.53,B5460889L,Japan,Pencil Inspector,47156,Team Sports,-,28.0,1.0
+294,Wilkins,Jack,M,1.83,67.61,27348216B,Slovakia,Membership Solicitor,45770,Sewing,Mitsubishi,17.0,1.0
+295,Hancock,Gloria,F,1.77,46.93,R6589104K,Senegal,Foot-Miter Operator,75408,Hunting,-,33.0,0.0
+296,Lara,Andrew,M,1.79,55.56,10260469V,Brazil,Receptionist,5645,Sewing,-,33.0,0.0
+297,Fuentes,Cheryl,F,1.71,47.26,C1757085M,Latvia,Paint-Spray Inspector,27112,Entertaining,-,29.0,1.0
+298,Conway,Peter,M,1.52,57.08,A4580876P,Thailand,"Inspector, Precision",15781,Playing Cards,-,29.0,0.0
+299,Hayden,Rose,F,1.42,52.47,78255634I,Malta,Loading-Machine-Operator Helper,38417,Playing Music,-,26.0,1.0
+300,Stark,Andrew,M,1.65,48.36,86187608H,Germany,Target Trimmer,57655,Sleeping,Cadillac,21.0,0.0
+301,Cox,Matthew,M,1.79,49.14,31389018P,South Korea,Lay-Out Former,116639,Exercise,Saab,31.0,0.0
+302,Hansen,Sara,F,1.76,42.91,59552396F,Spain,Greenskeeper Ii,52698,Going to Movies,Lexus,30.0,0.0
+303,Nixon,Judy,F,1.64,40.94,T0271889M,France,Spray-Painting-Machine Operator,14789,Watching TV,-,40.0,1.0
+304,Morris,Joyce,F,1.64,50.63,W7514144K,Luxembourg,Proof Inspector,15191,Computer Games,-,35.0,0.0
+305,Matthews,Matthew,M,1.86,52.33,F6150261V,Spain,Punchboard Assembler I,50991,Theater,Lexus,30.0,0.0
+306,Gibson,Gregory,M,1.85,71.09,23233610X,Luxembourg,"Repairer, Switchgear",21471,Boating,-,26.0,0.0
+307,Mooney,Juan,M,1.81,61.83,78242256S,Japan,Woodenware Assembler,9957,Shopping,-,29.0,0.0
+308,Riddle,Sharon,F,1.62,39.84,77296438B,Hungary,Meeting Planner,32609,Reading,-,29.0,1.0
+309,Preston,Kayla,F,1.45,43.57,03064576T,Denmark,"Supervisor, Glazing Department",19396,Sleeping,-,38.0,1.0
+310,Carpenter,Joyce,F,1.67,45.48,B6135974V,Italy,Roller-Print Tender,20141,Listening to Music,-,34.0,0.0
+311,French,Steven,M,1.59,48.36,O2210352O,Bulgaria,Dielectric-Press Operator,7072,Computer Games,-,45.0,1.0
+312,Benton,Scott,M,1.61,69.02,H7622006L,Senegal,Frame-Table-Operator Helper,29725,Horseback Riding,-,31.0,1.0
+313,Haley,Stephanie,F,1.62,50.54,83135842A,Latvia,Title Examiner,27896,Painting,-,40.0,1.0
+314,Clay,Gabriel,M,1.59,81.51,G2658080Z,United States of America,"Laborer, Pie Bakery",46405,Playing Cards,Dodge,35.0,2.0
+315,Nixon,Billy,M,1.7,76.4,P0359041O,South Korea,Snow-Removing Supervisor,86537,Fishing,Dodge,45.0,2.0
+316,Reilly,Kathleen,F,1.65,39.32,X6080760U,Slovakia,"Row Boss, Hoeing",84119,Playing Cards,-,29.0,1.0
+317,Morris,Gloria,F,1.53,41.9,I0412708H,United Kingdom,Emergency Relief Worker,56640,Dancing,-,35.0,1.0
+318,Golden,Alexis,F,1.58,47.7,36173764L,Bulgaria,Gun-Repair Clerk,9457,Hiking,-,23.0,2.0
+319,Johns,Donna,F,1.62,47.96,78383960K,Denmark,Stone-Driller Helper,22227,Walking,-,29.0,1.0
+320,Nelson,Doris,F,1.63,55.45,I5137290G,South Korea,Matrix-Drier Tender,53524,Traveling,Volvo,34.0,0.0
+321,Carey,Susan,F,1.46,45.4,69978641H,Singapore,"Cut-Off-Saw Operator, Pipe Blanks",15373,Cooking,-,38.0,0.0
+322,Bean,Patricia,F,1.39,46.77,20258867S,South Korea,"Supervisor, Securities Vault",27948,Family Time,-,29.0,0.0
+323,Monroe,Sara,F,1.42,57.31,M6543904K,Greece,Starcher,16052,Bicycling,-,29.0,0.0
+324,House,Jesse,M,1.9,52.79,L6509121I,Finland,"Lathe Operator, Contact Lens",21298,Golf,-,27.0,0.0
+325,Abbott,Justin,M,1.71,60.99,X7793838Y,Thailand,"Supervisor, Tank Cleaning",17802,Horseback Riding,-,38.0,0.0
+326,Rosario,Judith,F,1.53,45.26,33883928Y,Chile,Filer,19106,Eating Out,-,35.0,0.0
+327,Wolfe,Billy,M,1.94,68.95,83767729A,Slovakia,Compression-Molding-Machine Operator,27105,Playing Music,-,20.0,1.0
+328,Byers,Justin,M,1.94,55.56,X9630915Y,Netherlands,Bundle Tier And Labeler,15907,Team Sports,-,18.0,0.0
+329,Salinas,Ralph,M,1.58,81.51,66942941S,Netherlands,"Crew Scheduler, Chief",56639,Fishing,Tesla,28.0,1.0
+330,Calderon,Jack,M,1.8,54.75,A1787907N,Spain,Hemming-And-Tacking-Machine Operator,12129,Computer Games,-,24.0,0.0
+331,Weber,Amy,F,1.44,49.17,38772283V,India,Spooling-Machine Operator,35256,Running,-,26.0,2.0
+332,Nieves,Deborah,F,1.53,42.79,R4496443M,Mexico,Cutting Inspector,18812,Motorcycling,-,26.0,1.0
+333,Hamilton,Jean,F,1.5,64.2,57666268R,Netherlands,Glass Polisher,29579,Billiards,-,38.0,0.0
+334,Bradley,Jonathan,M,1.8,58.28,O7975847M,Cyprus,"Setter, Cold-Rolling Machine",15779,Team Sports,-,31.0,2.0
+335,Frost,Diana,F,1.63,47.42,60652650L,Estonia,Legend Maker,177217,Volunteer Work,-,40.0,1.0
+336,Herman,Susan,F,1.71,41.83,29216244Y,Spain,"Waiter/Waitress, Club",40570,Dancing,-,39.0,1.0
+337,Cochran,Ruth,F,1.67,53.87,N8728850B,United States of America,"Supervisor, Blueprinting-And-Photocopy",107057,Crafts,-,29.0,1.0
+338,Reese,Theresa,F,1.43,39.32,69245962H,Croatia,Tube Cleaner,19146,Billiards,-,27.0,1.0
+339,Langley,Samuel,M,1.9,59.53,82281528W,Malta,Rubber-Goods Inspector-Tester,41415,Shopping,-,40.0,1.0
+340,Mcdaniel,Gregory,M,1.94,64.69,48374127O,Greece,Steel-Post-Installer Supervisor,86173,Swimming,-,20.0,0.0
+341,Poole,Kayla,F,1.43,45.52,O6560895F,Thailand,Wine Pasteurizer,56974,Watching TV,-,41.0,1.0
+342,Bailey,Nathan,M,1.81,62.19,I2382642Y,Slovenia,Monotype-Keyboard Operator,13696,Horseback Riding,-,20.0,1.0
+343,Torres,Jean,F,1.67,54.65,Q1078529M,Canada,Furnace Helper,189299,Painting,Acura,32.0,2.0
+344,Hurst,Gloria,F,1.57,49.56,45462151B,Netherlands,Safety-Pin-Assembling-Machine Operator,49879,Going to Movies,-,33.0,1.0
+345,Riggs,Nancy,F,1.7,49.77,J3136478W,France,Tailer,152969,Painting,Porsche,28.0,0.0
+346,Sullivan,Lauren,F,1.51,43.28,W9201450Y,United Kingdom,Rubber-Mill Operator,15953,Gardening,-,34.0,1.0
+347,Barnett,Nathan,M,1.52,60.36,23907041G,Brazil,Loading-Machine Adjuster,41753,Exercise,Audi,29.0,1.0
+348,Sanchez,Justin,M,1.77,48.36,T1121486L,Denmark,Domer,46013,Playing Music,-,24.0,0.0
+349,Frank,Sharon,F,1.59,39.32,O1161063J,Malta,Conveyor Loader Ii,26075,Exercise,-,22.0,1.0
+350,Vincent,Louis,M,1.63,60.0,J4506008D,Latvia,"Clerk, Telegraph Service",46816,Animal Care,-,25.0,1.0
+351,Stevens,Debra,F,1.64,43.22,36842266E,Egypt,Sunglass-Clip Attacher,22712,Boating,-,38.0,0.0
+352,Richardson,Amy,F,1.72,50.73,I5379207M,Spain,Medical-Equipment Repairer,33107,Theater,-,38.0,0.0
+353,Herrera,Nicole,F,1.44,42.06,T0302237K,Romania,"Inspector, Filter Tip",32006,Exercise,-,30.0,1.0
+354,Goff,Arthur,M,1.88,72.0,B2119185B,Russia,Stuffer,22968,Volunteer Work,-,19.0,1.0
+355,Ochoa,Kimberly,F,1.63,39.32,O5133166D,Slovakia,Teacher Aide I,36871,Dancing,-,40.0,1.0
+356,Bird,Susan,F,1.82,45.53,H0382678D,Indonesia,"Director, Radio",77452,Boating,Fiat,19.0,2.0
+357,House,Frances,F,1.82,50.9,Q4603269V,Russia,Button-Facing-Machine Operator,23845,Watching Sports,-,35.0,2.0
+358,Pratt,Thomas,M,1.81,76.29,50280001G,Poland,Polishing-Wheel Setter,41173,Computer Games,Tesla,28.0,1.0
+359,Mcdaniel,Justin,M,1.68,69.6,N4807622B,United Kingdom,Latexer I,41419,Gardening,Pagani,47.0,1.0
+360,Rivers,Christina,F,1.6,39.68,41360087E,Lithuania,Evaporative-Cooler Installer,41272,Gardening,Renault,33.0,0.0
+361,Castillo,Donna,F,1.41,44.06,36419138V,Cyprus,Pick-Up Operator,31505,Boating,-,41.0,1.0
+362,Oconnor,Teresa,F,1.67,39.32,53880867A,Poland,Tool Designer,36941,Billiards,-,29.0,0.0
+363,Mcneil,Melissa,F,1.42,45.77,E8834680B,Saudi Arabia,"Safety Inspector, Truck",222262,Horseback Riding,-,26.0,0.0
+364,Vincent,Kathryn,F,1.54,39.32,V6073716G,Poland,Salon Manager,20316,Billiards,-,37.0,0.0
+365,Cochran,Justin,M,1.85,55.54,F2692681F,Germany,Power-Chisel Operator,67132,Running,Peugeot,33.0,1.0
+366,Hayes,Rebecca,F,1.82,53.4,F0912740J,France,Transportation Inspector,33926,Watching TV,-,37.0,1.0
+367,Blackwell,William,M,1.88,79.6,Q7805953P,Netherlands,Heading-Machine Operator,24836,Working on Cars,-,18.0,2.0
+368,Austin,Brandon,M,1.89,54.33,D5029187T,Germany,Tattoo Artist,37546,Hiking,-,31.0,1.0
+369,Hatfield,Denise,F,1.65,46.15,Y1314161N,Germany,"Gelatin Maker, Utility",42484,Sleeping,-,24.0,1.0
+370,Whitney,Michael,M,1.94,65.67,27859774J,Slovenia,"Inspector, Balance Wheel Motion",10242,Fishing,-,29.0,0.0
+371,Petty,Ryan,M,1.69,48.36,14496483Y,Cyprus,"Engine Repairer, Service",73598,Exercise,Fiat,27.0,0.0
+372,Pope,Gary,M,1.81,48.36,T8457821I,Latvia,"Supervisor, Diversified Crops",47559,Hunting,Nissan,23.0,1.0
+373,Dunn,Cheryl,F,1.54,39.32,63551540V,Portugal,Fish Roe Technician,28981,Playing Music,-,27.0,0.0
+374,Fitzpatrick,Theresa,F,1.56,43.25,U2711166T,Luxembourg,Carton-Forming-Machine Helper,154761,Traveling,BMW,28.0,0.0
+375,Castillo,Anna,F,1.42,50.68,K3325870C,Estonia,Flight Attendant,30368,Reading,-,23.0,1.0
+376,Steele,Shirley,F,1.75,43.07,43537459I,Estonia,Whipped-Topping Finisher,53029,Watching Sports,Mitsubishi,27.0,0.0
+377,Pennington,Adam,M,1.94,81.68,K9401236K,Singapore,Flame-Annealing-Machine Setter,63259,Horseback Riding,Volvo,32.0,1.0
+378,Fowler,Brittany,F,1.82,45.82,M4092712V,France,Yeast Washer,16113,Going to Movies,-,26.0,0.0
+379,Delaney,Brian,M,1.94,61.47,60786649Z,Poland,Clock Assembler,33194,Beach,-,20.0,0.0
+380,Morris,Dennis,M,1.88,51.67,50443652X,Romania,Identification Officer,41206,Shopping,-,29.0,1.0
+381,Bernard,Roy,M,1.93,65.99,P7026909S,Thailand,"Painter Apprentice, Transportation Equipment",55562,Billiards,-,24.0,0.0
+382,Scott,Andrew,M,1.94,74.02,77771493T,Romania,Forwarder,7682,Tennis,-,17.0,0.0
+383,Spears,Carl,M,1.66,55.59,A1619775X,Netherlands,Propellant-Charge-Zone Assembler,23854,Relaxing,-,26.0,1.0
+384,Sparks,Ralph,M,1.94,56.31,74418250G,Slovakia,"Binder Cutter, Hand",45118,Billiards,Subaru,35.0,0.0
+385,Lynn,Anthony,M,1.94,61.66,R3294533G,Mexico,Subscription Crew Leader,61226,Shopping,Mitsubishi,18.0,1.0
+386,Pugh,Ronald,M,1.76,62.43,73231306D,Turkey,"Wicker, Molded Candles",64116,Bowling,-,28.0,1.0
+387,Kelley,Katherine,F,1.82,44.69,G3406204O,Slovakia,Stationary-Engineer Apprentice,7644,Gardening,-,25.0,1.0
+388,Gutierrez,Cynthia,F,1.47,42.4,V6166263H,Bulgaria,"Front Maker, Lockstitch",7401,Working on Cars,-,27.0,0.0
+389,Melendez,Randy,M,1.87,66.16,Q6998130S,Brazil,Melter Operator,56820,Bicycling,-,29.0,0.0
+390,Harvey,Kathleen,F,1.64,48.76,49634144F,Romania,Pocketed-Spring Assembler,10739,Hiking,-,34.0,0.0
+391,Hernandez,Teresa,F,1.58,49.59,58851524J,Thailand,"Supervisor, Painting Department",8614,Theater,-,26.0,0.0
+392,Farley,Timothy,M,1.59,70.06,40931449B,Japan,"Supervisor, Pigment Making",53450,Golf,Pagani,43.0,2.0
+393,Carver,Bobby,M,1.87,67.05,K8913111M,Brazil,"Lead Worker, Wafer Polishing",53111,Shopping,Maserati,21.0,0.0
+394,Vinson,Shirley,F,1.47,39.32,V2805606C,Denmark,Mailer,38008,Theater,-,29.0,0.0
+395,Galloway,Madison,F,1.5,45.89,72458174A,Italy,Liner Assembler,233416,Reading,Buick,44.0,2.0
+396,Duncan,Johnny,M,1.82,64.16,62104126R,Portugal,Last Chalker,24481,Swimming,-,33.0,1.0
+397,Garcia,Justin,M,1.56,66.7,84629687L,Lithuania,Assistant Golf Professional,13236,Dancing,-,31.0,1.0
+398,Christian,Timothy,M,1.52,55.17,Q5012519G,Estonia,Outside-Plant Engineer,42256,Watching TV,-,30.0,0.0
+399,Brady,Janice,F,1.51,39.32,U4316139V,Russia,Photo Mask Processor,47151,Cooking,-,40.0,1.0
+400,Vasquez,Gregory,M,1.86,66.58,22498878H,Indonesia,Varnish Inspector,50165,Socializing,-,43.0,2.0
+401,Waller,Kathleen,F,1.61,40.05,31086082B,Indonesia,Field Recorder,14673,Hunting,-,26.0,1.0
+402,Sloan,Adam,M,1.54,68.86,Z9323058L,India,"Machine Operator, Centrifugal-Control Switches",29826,Camping,-,30.0,0.0
+403,Herring,Albert,M,1.75,72.51,M6905118E,Latvia,Grain-Drier Operator,19021,Bicycling,-,22.0,1.0
+404,Daniels,Debra,F,1.65,40.53,U7377851O,Ireland,Tower Erector,76714,Team Sports,-,26.0,1.0
+405,Grant,Brenda,F,1.81,50.09,R2807167G,Ireland,Vending-Machine Attendant,42089,Going to Movies,Mini,31.0,1.0
+406,England,Brandon,M,1.69,57.3,F1507462U,Netherlands,Electromedical-Equipment Repairer,54563,Socializing,Porsche,22.0,1.0
+407,Bell,Brian,M,1.52,48.36,H0937380U,Singapore,Irrigation System Installer,31143,Traveling,-,45.0,1.0
+408,Mccullough,Edward,M,1.94,62.02,61951730Y,China,Gem Cutter,10078,Running,-,28.0,0.0
+409,Robertson,Richard,M,1.65,48.36,K5329784B,Luxembourg,"Supervisor, Slate Splitting",48480,Bowling,-,15.0,0.0
+410,Casey,Billy,M,1.76,55.88,86581606P,Ireland,"Rounder, Hand",48398,Hiking,-,42.0,2.0
+411,Mcfadden,Janice,F,1.77,44.85,45089222Q,Spain,"Rater, Travel Accommodations",53101,Crafts,-,44.0,2.0
+412,Vargas,Carol,F,1.51,42.8,55289648A,Germany,Scientific Glass Blower,54526,Bowling,Toyota,27.0,1.0
+413,Stanley,Maria,F,1.49,39.42,19259596J,Spain,Motor-Vehicle-Light Assembler,26017,Watching TV,-,23.0,1.0
+414,Cruz,Austin,M,1.82,63.08,57395536M,Brazil,"Metal-Spraying-Machine Operator, Automatic Ii",64411,Golf,-,30.0,1.0
+415,Pate,Bryan,M,1.81,51.32,36258704Z,Singapore,Coin-Machine Assembler,20709,Animal Care,-,27.0,2.0
+416,Osborne,Nicole,F,1.59,39.32,Q4748497N,Spain,Automatic-Door Mechanic,44989,Skiing,-,40.0,1.0
+417,Turner,Robert,M,1.88,78.55,24247973I,Chile,Steeple Jack,37821,Dancing,-,34.0,1.0
+418,Blevins,Abigail,F,1.64,51.87,U4210660Q,Ireland,"Inspector, Building",202022,Skiing,-,42.0,2.0
+419,Bass,David,M,1.57,71.49,I8518401R,Italy,Harness Puller,24105,Watching TV,-,22.0,1.0
+420,Harrell,Nathan,M,1.94,56.25,29862682T,Bulgaria,"Flight Attendant, Ramp",15731,Skiing,-,27.0,0.0
+421,Walker,Pamela,F,1.46,54.39,22627004D,Italy,Jewel Inspector,90999,Socializing,Honda,37.0,1.0
+422,Jefferson,Brian,M,1.62,65.25,Z3075533M,Denmark,House-Mover Helper,111653,Eating Out,-,28.0,1.0
+423,Juarez,Deborah,F,1.71,42.31,C8068624S,Italy,Fiberglass-Machine Operator,31775,Swimming,-,24.0,0.0
+424,Ware,Rebecca,F,1.64,53.39,M5652780H,France,Drying-Oven Attendant,121359,Golf,Subaru,28.0,1.0
+425,Herrera,Joan,F,1.45,62.61,73317271X,Spain,Metal-Fabricator Apprentice,19227,Shopping,-,25.0,0.0
+426,Bird,Lawrence,M,1.52,79.17,35293313W,Canada,Chief Information Officer (CIO),7020,Bicycling,-,28.0,0.0
+427,Peters,Roy,M,1.71,48.36,E5918370N,Cyprus,Chart Calculator,11184,Relaxing,-,34.0,1.0
+428,Jones,Michael,M,1.94,72.22,G2585069V,Czechia,Pattern Gater,37395,Sleeping,-,19.0,0.0
+429,Neal,Sara,F,1.39,52.92,J8059707Q,Senegal,Steam-Conditioner Operator,108482,Entertaining,General Motors,19.0,1.0
+430,Patel,William,M,1.88,53.96,D8092930U,Romania,"Assembler, Aircraft Power Plant",11697,Eating Out,-,22.0,1.0
+431,Wilkerson,Nancy,F,1.55,39.32,06286739X,Czechia,Defensive Fire Control Systems Operator,61471,Camping,-,29.0,0.0
+432,Guzman,Shirley,F,1.44,44.48,24864276Y,Spain,Dyed-Yarn Operator,21951,Exercise,-,27.0,0.0
+433,Cunningham,Angela,F,1.4,49.1,K9160395A,Romania,"Engine-Lathe Set-Up Operator, Tool",45772,Relaxing,Mini,37.0,0.0
+434,Holcomb,Kathleen,F,1.47,40.13,Z8098946R,Estonia,"Repairer, Welding, Brazing, And Burning Machines",19718,Exercise,-,30.0,0.0
+435,Petersen,Stephanie,F,1.79,39.32,V1043879E,Germany,Pharmacy Technician,39792,Horseback Riding,-,36.0,1.0
+436,Alford,Eric,M,1.94,48.61,D5654518O,Thailand,Barrel Filler Ii,119025,Computer Games,Mazda,26.0,0.0
+437,Chase,Roy,M,1.84,60.75,66898902B,Thailand,Upholstery Cleaner,73590,Bowling,-,34.0,0.0
+438,Stewart,Pamela,F,1.82,46.59,24960537M,Denmark,Luggage Repairer,29779,Eating Out,-,36.0,1.0
+439,Sparks,Rachel,F,1.47,41.01,V4857352X,China,Furnace Installer,103318,Socializing,-,29.0,0.0
+440,Maddox,Alice,F,1.64,43.74,61241079N,Senegal,"Welder Apprentice, Arc",10688,Playing Music,-,27.0,0.0
+441,Hardin,Victoria,F,1.76,39.32,E7283995R,Sweden,Prototype-Deicer Assembler,51630,Relaxing,-,19.0,2.0
+442,Calhoun,Victoria,F,1.7,46.38,37859274N,India,"Fabricator, Artificial Breast",10602,Family Time,-,25.0,0.0
+443,Trevino,Albert,M,1.71,48.36,R5284959N,Finland,Jewel-Corner-Brushing-Machine Operator,48593,Walking,-,17.0,0.0
+444,Stephenson,Jessica,F,1.62,47.76,A1576949M,Egypt,Cloth Doffer,63661,Boating,-,28.0,2.0
+445,Curtis,Jane,F,1.39,43.68,30298870H,Singapore,Video or Film Producer,25168,Going to Movies,-,25.0,1.0
+446,Cohen,Thomas,M,1.91,48.36,H7306644A,Chile,Ironworker-Machine Operator,9070,Entertaining,-,31.0,1.0
+447,Ford,Sophia,F,1.5,39.63,G6040937O,Senegal,"Cleaner, Wall",116375,Writing,-,32.0,0.0
+448,Blake,Steven,M,1.79,70.45,U7926264Z,India,Watch-Crystal Edge Grinder,11812,Eating Out,-,22.0,0.0
+449,Glass,Linda,F,1.82,39.32,83793119J,Bulgaria,"Lead Burner, Machine",147579,Entertaining,-,41.0,1.0
+450,Hubbard,Gabriel,M,1.94,63.76,M6855317I,United States of America,Pipe-Fitter Helper,59117,Camping,Geely,29.0,0.0
+451,Everett,Nathan,M,1.86,57.2,J8949672J,Luxembourg,"Clipper, Machine",32770,Working on Cars,-,34.0,1.0
+452,Webster,Ryan,M,1.94,52.21,37770740C,Spain,Pipe Stem Repairer,16204,Fishing,-,22.0,1.0
+453,Stout,Edward,M,1.85,62.81,T0899757O,Netherlands,"Front-Edge-Tape Sewer, Lockstitch",70688,Hunting,-,21.0,1.0
+454,Freeman,Emily,F,1.77,49.67,X7515284X,Italy,Silk Spreader,18166,Socializing,-,19.0,0.0
+455,Harding,Laura,F,1.58,46.79,G9054389C,Portugal,Dynamite-Packing-Machine Feeder,112215,Sewing,Acura,32.0,0.0
+456,Fernandez,Carl,M,1.78,70.27,Q3024868A,United Kingdom,Trimmer Helper,34488,Painting,-,32.0,1.0
+457,Rowe,Olivia,F,1.54,42.44,M0420818H,Mexico,Pot Tender,64316,Team Sports,-,39.0,0.0
+458,Dillon,Virginia,F,1.39,55.36,T3005038W,Luxembourg,Spring Clipper,94246,Cooking,Lamborghini,29.0,0.0
+459,Fitzpatrick,Terry,M,1.68,51.63,G5581477I,Finland,Press Machine Feeder,163241,Writing,-,31.0,0.0
+460,Rivers,Doris,F,1.47,39.48,78554700L,Finland,Distilling-Department Supervisor,162882,Traveling,-,35.0,0.0
+461,Mccullough,Marie,F,1.5,40.19,L7512921X,India,Snuff Grinder And Screener,169003,Dancing,Toyota,41.0,2.0
+462,Donovan,Gabriel,M,1.67,56.22,E4712163V,Spain,"Knitter, Hand",6802,Gardening,-,35.0,0.0
+463,Watts,Theresa,F,1.73,39.32,21956316C,Netherlands,"Supervisor, Abattoir",8410,Working on Cars,-,35.0,1.0
+464,Fry,Ryan,M,1.76,65.53,Y2062878V,Netherlands,"Usher, Head",169479,Playing Cards,-,20.0,1.0
+465,Whitaker,Austin,M,1.59,84.68,14406647C,Luxembourg,"Puller And Laster, Machine",12508,Listening to Music,-,15.0,1.0
+466,Anderson,Michelle,F,1.63,40.41,L6914888C,Mexico,"Supervisor, Compressed Yeast",39961,Golf,-,19.0,1.0
+467,Wagner,Doris,F,1.46,56.1,13842428B,Germany,"Installer, Movable Bulkhead",30123,Playing Cards,-,30.0,0.0
+468,Perry,Donna,F,1.76,40.23,F1553112X,Italy,Rougher,9237,Working on Cars,-,36.0,1.0
+469,Castro,Kayla,F,1.47,47.97,68281467R,Australia,Casing-Material Weigher,9236,Motorcycling,-,32.0,0.0
+470,Massey,Beverly,F,1.74,45.34,69601810S,Denmark,Barrel-Raiser Helper,69696,Skiing,-,33.0,0.0
+471,Carey,Stephanie,F,1.43,47.16,21387316R,Greece,"Sales Representative, Tobacco Products And Smoking Supplies",7903,Team Sports,-,26.0,0.0
+472,Kramer,Logan,M,1.82,51.61,N8725541N,Singapore,Dry-Charge-Process Attendant,38442,Computer Games,-,23.0,0.0
+473,Todd,James,M,1.94,56.08,54522231M,Japan,"Supervisor, Route Sales-Delivery Drivers",79645,Socializing,-,20.0,1.0
+474,Bates,Carolyn,F,1.45,39.32,60080120H,Cyprus,Treasurer,53177,Shopping,-,30.0,1.0
+475,Horton,Daniel,M,1.58,81.09,A3671572H,United Kingdom,Driller Helper,30207,Playing Cards,-,23.0,0.0
+476,Greer,Michelle,F,1.82,45.48,F8962056Z,South Korea,Bricklayer Supervisor,91835,Beach,Mitsubishi,43.0,1.0
+477,Clayton,Catherine,F,1.66,39.32,H1332619S,Australia,Boilermaker Fitter,53279,Playing Cards,-,33.0,0.0
+478,Hull,Mary,F,1.54,39.32,38034947P,Spain,Sweeping-Compound Blender,21929,Traveling,-,24.0,1.0
+479,Gonzales,Frank,M,1.92,67.29,E7258780L,Senegal,"Kiln Operator, Malt House",13147,Housework,-,26.0,1.0
+480,Parks,Martha,F,1.64,39.32,Z2373946H,Egypt,"Edger, Hand",7038,Playing Cards,-,40.0,1.0
+481,Davis,David,M,1.79,48.36,J2586483A,France,Material Lister,18628,Bowling,-,22.0,0.0
+482,Rose,Judy,F,1.55,39.32,R2196502Z,Sweden,Newswriter,85365,Team Sports,-,28.0,0.0
+483,Campos,Justin,M,1.77,61.73,R9226558S,Denmark,Storage Battery Inspector And Tester,6591,Exercise,-,23.0,0.0
+484,Molina,Brandon,M,1.75,48.36,F9072107B,Germany,Patch Sander,111642,Sleeping,-,23.0,1.0
+485,Decker,Ashley,F,1.63,40.53,I3482908L,Mexico,Highway-Administrative Engineer,7958,Running,-,35.0,0.0
+486,Talley,Rose,F,1.65,56.58,17250908M,Denmark,Field-Service Engineer,115622,Computer Games,-,31.0,0.0
+487,Daugherty,Betty,F,1.67,39.32,38919781E,Germany,Chief Robot Whisperer,64990,Beach,Dodge,29.0,0.0
+488,Fulton,Evelyn,F,1.49,52.64,35561447Y,Canada,Tank Cleaner,26187,Hiking,-,39.0,1.0
+489,Ochoa,Judy,F,1.49,47.58,N4161763M,France,Copyright Expert,24544,Writing,-,33.0,1.0
+490,England,Patricia,F,1.8,45.44,V6974129M,Czechia,Mailroom Supervisor,37810,Skiing,-,36.0,1.0
+491,Shepard,Louis,M,1.78,57.51,63197405R,Slovakia,Dye Automation Operator,38732,Bicycling,-,26.0,1.0
+492,Juarez,Denise,F,1.44,39.32,54955844D,Netherlands,Kiln Drawer,97297,Watching Sports,-,32.0,1.0
+493,Andrews,Rebecca,F,1.77,48.06,64945166E,Ireland,User Support Analyst Supervisor,75286,Playing Cards,Maserati,25.0,2.0
+494,Martin,Vincent,M,1.94,81.08,43677625S,Bulgaria,Burner Tender,74607,Camping,-,34.0,1.0
+495,Clay,Sean,M,1.94,65.28,C7662632N,France,Felt Carbonizer,28826,Bowling,-,20.0,0.0
+496,Snow,Grace,F,1.45,45.58,83260903V,Finland,Sequencing-Machine Operator,19836,Playing Music,-,25.0,0.0
+497,Sharpe,Megan,F,1.39,61.29,38312921Z,Hungary,Electronics Utility Worker,107944,Dancing,Mercedes-Benz,26.0,1.0
+498,Pierce,Walter,M,1.93,67.43,41609172C,Senegal,"Cloth Examiner, Hand",58531,Eating Out,Subaru,22.0,1.0
+499,Anthony,Walter,M,1.87,81.23,30964705L,France,Social Media Specialist,44331,Team Sports,Honda,45.0,1.0
+500,Jordan,Kenneth,M,1.94,58.93,Q4824543N,Australia,Test Worker,13575,Socializing,-,29.0,0.0
+501,Lewis,Alice,F,1.61,41.78,N6354980F,India,Extruder Operator,14433,Crafts,-,32.0,0.0
+502,Terrell,Jack,M,1.94,66.24,T5997553M,Netherlands,Garden Worker,9175,Painting,-,23.0,1.0
+503,Bullock,Victoria,F,1.73,39.32,23511971R,Singapore,Remnants Cutter,11029,Bowling,-,28.0,1.0
+504,Newman,Elizabeth,F,1.54,44.05,58451400Q,Greece,Lumber Scaler,13983,Animal Care,-,42.0,2.0
+505,Rosales,Nancy,F,1.82,42.55,U1415285V,United Kingdom,"Binding Folder, Machine",45352,Dancing,-,30.0,1.0
+506,Ware,Katherine,F,1.67,39.32,T0603128V,Germany,Assembly-Press Operator,8403,Bowling,-,17.0,1.0
+507,Jarvis,Kyle,M,1.87,48.36,E1418585Y,Indonesia,"Contact Printer, Photoresist",68431,Swimming,-,26.0,1.0
+508,Cameron,Helen,F,1.67,40.68,07824913W,Portugal,Deposit Clerk,34406,Watching Sports,-,37.0,0.0
+509,Matthews,Victoria,F,1.5,43.36,V5313983O,Austria,Corn Grinder,27625,Working on Cars,-,44.0,1.0
+510,Gallagher,Matthew,M,1.94,62.71,W5670850G,Russia,"Packer, Agricultural Produce",99755,Sleeping,-,20.0,1.0
+511,Buchanan,Joshua,M,1.52,63.62,L9727478N,Thailand,Touch-Up Carver,36719,Billiards,-,33.0,1.0
+512,Mitchell,Teresa,F,1.39,39.32,X4696555R,Denmark,Bowling-Ball Molder,22687,Working on Cars,-,30.0,1.0
+513,Gallegos,Dorothy,F,1.78,43.3,34793528E,Sweden,Pressure-Test Operator,92833,Traveling,Renault,42.0,1.0
+514,Freeman,Jessica,F,1.42,39.32,16530468O,United Kingdom,Casting-Operator Helper,96019,Crafts,-,34.0,0.0
+515,Goodman,Judy,F,1.52,60.31,61891114P,France,Press Setter,21931,Running,-,41.0,1.0
+516,Mccullough,Johnny,M,1.52,61.06,40183365I,Denmark,Lip Cutter And Scorer,12187,Bicycling,-,20.0,1.0
+517,Fernandez,Sara,F,1.49,53.69,X6815954U,Denmark,Lap Cutter-Truer Operator,21061,Dancing,-,32.0,0.0
+518,Dean,Linda,F,1.73,44.89,64404772A,Italy,Slip-Cover Sewer,18709,Socializing,-,30.0,0.0
+519,Dennis,Raymond,M,1.7,48.36,E5379310F,Spain,Stock Preparer,44879,Gardening,Buick,29.0,1.0
+520,Farley,Dennis,M,1.88,58.58,09324564S,Belgium,V-Belt Curer,164674,Animal Care,-,30.0,0.0
+521,Waller,Denise,F,1.39,58.56,51040899Y,China,Drying-Machine Tender,130961,Watching TV,-,35.0,0.0
+522,Page,Kathleen,F,1.63,39.32,C0143092G,Spain,Final Inspector,38801,Shopping,-,22.0,1.0
+523,Dillon,Billy,M,1.86,68.25,14885812K,Argentina,Voice Pathologist,18062,Painting,-,15.0,0.0
+524,Butler,Christopher,M,1.94,48.36,07032426X,Finland,Sleever,32296,Going to Movies,-,26.0,1.0
+525,Marks,Stephen,M,1.78,48.36,11320913D,Malta,"Supervisor, Lace Tearing",32384,Reading,-,37.0,1.0
+526,Rich,Laura,F,1.55,39.32,J3283162J,Czechia,Police Officer Ii,25270,Animal Care,-,40.0,1.0
+527,Fitzpatrick,Dennis,M,1.93,51.73,J5128972Y,Croatia,Metal Control Worker,43605,Hunting,Ferrari,38.0,0.0
+528,Mclaughlin,Kenneth,M,1.7,68.22,Z5784577A,Estonia,Dynamite-Packing-Machine Operator,20549,Painting,-,15.0,1.0
+529,Woods,Brenda,F,1.53,47.45,04504860X,Argentina,Stock Patcher,83165,Sewing,Mazda,26.0,1.0
+530,Johnston,Nancy,F,1.82,39.32,P2271826O,Russia,Television-And-Radio Repairer,13207,Running,-,39.0,0.0
+531,Walls,Kimberly,F,1.73,44.62,M0808142F,Brazil,Educational Specialist,99949,Exercise,-,34.0,0.0
+532,Blackwell,Denise,F,1.65,39.32,T9641465J,Netherlands,Instrument Repairer,12008,Watching Sports,-,26.0,0.0
+533,Powers,Bradley,M,1.94,60.08,B4685459P,Greece,Police Officer Ii,40103,Dancing,Bentley,25.0,0.0
+534,Chavez,Noah,M,1.72,55.85,H2787039I,Argentina,"Drill-Press Set-Up Operator, Single Spindle",15110,Listening to Music,-,43.0,1.0
+535,Ortega,Brenda,F,1.69,39.32,25855251L,Egypt,Molecular Scientist,36329,Playing Music,-,36.0,0.0
+536,Hansen,Paul,M,1.77,48.36,58140454Q,Australia,Office Helper,33844,Fishing,-,25.0,0.0
+537,Beach,Joseph,M,1.94,69.0,83906007B,Japan,"Cooker, Casing",29087,Beach,-,47.0,1.0
+538,Fisher,Betty,F,1.6,56.07,M9100663N,Slovenia,"Deputy Sheriff, Commander, Criminal And Patrol Division",23667,Sleeping,-,35.0,1.0
+539,Blankenship,Denise,F,1.75,44.2,G2348114Q,Canada,Paradichlorobenzene Tender,185195,Playing Cards,Geely,37.0,1.0
+540,Nash,Jonathan,M,1.94,71.03,E3261516R,Hungary,Unattended-Ground-Sensor Specialist,27494,Watching Sports,-,32.0,0.0
+541,Fields,Adam,M,1.94,50.64,Q0144252P,France,Spiral Runner,99252,Playing Cards,GMC,39.0,0.0
+542,Bruce,Emily,F,1.46,39.32,S5672576U,Romania,Blower Insulator,16867,Skiing,-,31.0,1.0
+543,Tucker,Kathryn,F,1.53,50.22,P4381284F,Japan,"Welder, Arc",12316,Skiing,-,25.0,0.0
+544,Hebert,Joseph,M,1.94,66.09,50278672G,South Korea,Latex-Ribbon-Machine Operator,15061,Computer Games,-,20.0,1.0
+545,Hamilton,Judy,F,1.42,52.5,V8346139Y,Hungary,"Char-Filter-Tank Tender, Head",118327,Billiards,Honda,35.0,0.0
+546,Walters,Joshua,M,1.94,48.36,B1697721Y,Romania,Lodging Manager,6932,Housework,-,40.0,1.0
+547,Sharp,Danielle,F,1.67,46.77,55651040O,Belgium,Rotor Assembler,27231,Animal Care,-,27.0,0.0
+548,Wiggins,Peter,M,1.92,66.31,K1879279J,Netherlands,Historian,22267,Theater,-,32.0,0.0
+549,Long,Julie,F,1.63,53.82,02988640F,Belgium,Yard Engineer,14141,Golf,-,25.0,0.0
+550,Riley,Daniel,M,1.94,48.36,Y4424620H,Croatia,Rope-Silica-Machine Operator,57270,Theater,Chevrolet,26.0,0.0
+551,Donovan,Stephen,M,1.94,60.67,78700389D,Greece,Stuffing-Machine Operator,12199,Entertaining,-,43.0,1.0
+552,Buckley,Hannah,F,1.7,53.72,J4855026W,Japan,Staple-Processing-Machine Operator,45237,Socializing,-,37.0,0.0
+553,Wilcox,Mark,M,1.64,55.8,M4028888T,Austria,Stationary-Engineer Apprentice,17407,Listening to Music,-,32.0,1.0
+554,Rivers,Barbara,F,1.39,52.71,F2327968Y,Chile,Fabric-Coating Supervisor,40793,Playing Music,-,30.0,0.0
+555,Ford,Sara,F,1.82,42.79,O5486468R,Cyprus,"Handicapper, Harness Racing",20482,Exercise,-,37.0,0.0
+556,Serrano,Joe,M,1.94,62.41,Z8275719S,Slovakia,Bowling-Ball Weigher And Packer,67629,Hunting,-,50.0,2.0
+557,Cline,Michael,M,1.94,72.78,65256512O,Hungary,"Laborer, Shipyard",75541,Bowling,-,27.0,1.0
+558,Hicks,Brenda,F,1.43,42.94,11354282E,Argentina,"Inspector, Aluminum Boat",45077,Writing,-,34.0,1.0
+559,Roth,Dylan,M,1.94,78.2,A5786771M,Lithuania,"Supervisor, Electrical Assembly",21236,Exercise,-,36.0,1.0
+560,Faulkner,Brittany,F,1.75,53.1,B5297856Y,Bulgaria,"Hide Stretcher, Hand",28971,Relaxing,-,29.0,1.0
+561,Robertson,Elizabeth,F,1.54,40.06,Q7314034M,Estonia,Hair Stylist,57032,Bicycling,Rolls Royce,32.0,1.0
+562,Drake,Gary,M,1.72,48.36,H4488361P,Finland,"Chucking-Machine Set-Up Operator, Multiple Spindle, Vertical",9065,Listening to Music,-,23.0,0.0
+563,Frederick,Arthur,M,1.81,66.74,O1340700H,Sweden,Waxer,80380,Crafts,BMW,17.0,1.0
+564,Knox,Kayla,F,1.59,39.69,E8516209M,Italy,Filling Machine Tender,61874,Swimming,Volvo,27.0,0.0
+565,Leach,Jeffrey,M,1.94,59.9,D8716123X,France,Sanitation Inspector,162165,Sleeping,-,28.0,0.0
+566,Woodard,Rebecca,F,1.43,39.32,C6104548H,Bulgaria,Weigher And Mixer,20385,Sleeping,-,39.0,0.0
+567,Hess,Hannah,F,1.57,41.68,06579648J,Estonia,"Supervisor, Edging",12084,Working on Cars,-,36.0,1.0
+568,Mendez,Brandon,M,1.89,62.64,F1113933Z,France,"Filler Shredder, Machine",43016,Working on Cars,Mercedes-Benz,28.0,1.0
+569,Huff,Karen,F,1.39,48.2,31459234T,Estonia,"Machinist, Outside",9602,Sleeping,-,28.0,1.0
+570,Mcintosh,George,M,1.77,49.59,21035633N,Vietnam,Millwright Supervisor,10140,Eating Out,-,25.0,1.0
+571,Maldonado,Kathleen,F,1.67,39.71,M1142549N,Finland,Quality-Control Checker,15096,Watching TV,-,30.0,0.0
+572,Klein,Lawrence,M,1.6,48.43,B0571518B,Russia,Dissolver Operator,30070,Boating,-,15.0,1.0
+573,Donaldson,Frank,M,1.54,65.79,S5681155W,Romania,Cooker,36543,Motorcycling,-,29.0,1.0
+574,Mcmillan,Alexander,M,1.71,62.76,22842285P,India,Personnel Quality Assurance Auditor,16298,Crafts,-,38.0,0.0
+575,Shepard,Nancy,F,1.82,47.2,28126172M,Germany,Scarfing Machine Operator,77513,Horseback Riding,Acura,40.0,1.0
+576,Anderson,Grace,F,1.72,39.32,62650466S,France,Manufacturing Engineer,84083,Playing Music,Audi,23.0,0.0
+577,Clemons,Christine,F,1.42,47.2,M7575233F,Poland,Lane-Marker Installer,19097,Animal Care,-,34.0,0.0
+578,Barrera,Billy,M,1.82,62.81,27479686E,Argentina,Petroleum Inspector,28021,Relaxing,-,25.0,0.0
+579,Stewart,Lori,F,1.55,42.88,V8801924K,France,Psychiatrist,58452,Crafts,Cadillac,43.0,1.0
+580,Osborne,Michelle,F,1.4,39.32,21003129W,Indonesia,Cloud Architect,55780,Camping,-,27.0,1.0
+581,Strong,Rose,F,1.72,47.92,K8390556L,India,Job Setter,7658,Sewing,-,23.0,1.0
+582,Thompson,Natalie,F,1.61,53.26,47566771R,Slovenia,Hopper Feeder,47461,Eating Out,-,35.0,2.0
+583,Spence,Julie,F,1.69,50.24,M7137741B,Ireland,Handbag Framer,161251,Dancing,-,21.0,1.0
+584,Sharpe,Christian,M,1.94,67.48,I6369512T,Netherlands,"Collar Setter, Overlock",82706,Bowling,Koenigsegg,23.0,1.0
+585,Hays,Sean,M,1.67,53.88,V3866013N,Vietnam,Title Attorney,40580,Writing,-,27.0,1.0
+586,Wall,Albert,M,1.72,65.2,J0588578D,France,Fur Glazer,7108,Traveling,-,23.0,0.0
+587,Russo,Logan,M,1.93,61.37,U3094796I,Italy,"Grinder Operator, Automatic",18426,Sleeping,-,30.0,0.0
+588,Velez,Gerald,M,1.72,54.92,B8539987I,United Kingdom,Parking Enforcement Officer,58131,Going to Movies,-,30.0,1.0
+589,Small,Bryan,M,1.63,85.13,B6901768Q,Thailand,Sand Plant Attendant,8143,Sleeping,-,33.0,0.0
+590,Huffman,Ralph,M,1.69,48.36,35664307E,Croatia,Color Tester,13809,Running,-,37.0,0.0
+591,Shepherd,Lisa,F,1.71,39.32,68771849K,South Korea,Renovator-Machine Operator,11948,Gardening,-,28.0,0.0
+592,Schneider,Nathan,M,1.94,63.73,26751429B,Spain,Vendor,47496,Family Time,Pagani,33.0,0.0
+593,Sykes,Olivia,F,1.47,39.32,06195587Z,Mexico,Display Fabricator,71749,Dancing,Mazda,33.0,1.0
+594,Jenkins,Samantha,F,1.76,51.81,G3860887T,Netherlands,Golf-Club Assembler,144351,Sleeping,Volkswagen,32.0,1.0
+595,Rose,Zachary,M,1.93,58.7,08284709I,Estonia,Wire-Turning-Machine Operator,28605,Boating,-,15.0,1.0
+596,Stein,Samuel,M,1.87,54.74,21370643T,Japan,Welding-Rod Coater,34994,Watching TV,-,35.0,0.0
+597,Lowery,Rebecca,F,1.49,39.9,62090925K,Latvia,"Heel-Seat Fitter, Hand",109387,Swimming,-,37.0,0.0
+598,Griffin,Michael,M,1.72,76.81,33614897G,Brazil,Neon-Sign Servicer,32379,Boating,-,29.0,0.0
+599,Lindsay,Emma,F,1.63,47.82,W4630249B,South Africa,Cytologist,53383,Theater,Acura,38.0,1.0
+600,Nolan,Anna,F,1.77,39.32,S8906579R,Turkey,Knit-Goods Washer,10341,Reading,-,33.0,1.0
+601,Young,Anna,F,1.63,42.62,U5858989K,Spain,Rod-And-Tube Straightener,24789,Watching TV,-,29.0,1.0
+602,Burgess,Edward,M,1.92,73.5,14912269Z,Germany,Pie Maker,10219,Bicycling,-,26.0,1.0
+603,Lambert,Gloria,F,1.46,39.32,U7193750N,Russia,Stem-Dryer Maintainer,52839,Bicycling,-,43.0,1.0
+604,Hendrix,Bryan,M,1.56,48.36,64149708F,Italy,Scorer,26292,Eating Out,-,36.0,1.0
+605,Robertson,Sean,M,1.94,61.89,N8569765V,Ireland,"Dispatcher, Concrete Products",26005,Working on Cars,-,25.0,0.0
+606,Anthony,Heather,F,1.47,43.48,O9065059E,Thailand,Inspector And Hand Packager,16594,Billiards,-,32.0,1.0
+607,Petty,Hannah,F,1.5,46.5,48710381C,Sweden,Lathe Tender,38541,Going to Movies,-,41.0,1.0
+608,Walters,Jacqueline,F,1.56,39.51,Z1780689E,Austria,"Bender, Hand",8326,Bicycling,-,47.0,1.0
+609,Rutledge,Patricia,F,1.39,44.7,O3304114Y,Malta,Bullet-Slug-Casting-Machine Operator,11212,Sleeping,-,45.0,1.0
+610,Atkins,Kevin,M,1.73,76.0,38170195O,Argentina,"Milling-Machine Set-Up Operator, Numerical Control",17046,Beach,-,27.0,0.0
+611,Keller,Emma,F,1.75,46.58,32574089Y,Chile,"Reclamation Kettle Tender, Metal",50211,Horseback Riding,-,29.0,1.0
+612,Kirk,Nicholas,M,1.67,70.85,H0315176B,Russia,Photoengraver Apprentice,17796,Playing Music,-,38.0,1.0
+613,Santiago,Jean,F,1.82,51.75,D8660996W,India,Orthotist,49647,Hunting,Lamborghini,41.0,1.0
+614,Hoover,Gabriel,M,1.62,64.79,54145533X,Saudi Arabia,"Cutlet Maker, Pork",6522,Skiing,-,47.0,1.0
+615,Bradley,Frances,F,1.48,39.32,82744344L,Slovenia,"Supervisor, Candy",74892,Playing Cards,Pagani,36.0,0.0
+616,Brady,Philip,M,1.6,63.67,39339235R,France,Fishing-Rod Assembler,50271,Running,-,48.0,1.0
+617,Mclaughlin,Joe,M,1.8,56.71,Q3519657T,Italy,Medical Secretary,91449,Bicycling,-,30.0,1.0
+618,Nielsen,Cynthia,F,1.82,40.5,T5221867N,Netherlands,Artificial-Pearl Maker,332142,Billiards,-,31.0,1.0
+619,Walker,Russell,M,1.81,52.19,E3441007X,India,Core Shaper,13365,Dancing,-,21.0,0.0
+620,Huber,Albert,M,1.94,59.28,Q3522289G,Australia,Leather Worker,32403,Entertaining,-,27.0,0.0
+621,Weeks,Barbara,F,1.61,47.93,08990733I,Chile,Freezing-Machine Operator,22108,Computer Games,-,35.0,1.0
+622,Hunt,Mary,F,1.7,47.54,F2015463C,Poland,"Commander, Identification And Records",8492,Crafts,-,34.0,0.0
+623,Becker,Charles,M,1.94,57.86,S1078346F,Lithuania,"Assembler, Mining Machinery",29216,Hiking,-,27.0,1.0
+624,Baird,George,M,1.94,48.36,25524695Q,United Kingdom,Press Puller,50174,Sleeping,-,17.0,0.0
+625,Rocha,Andrew,M,1.61,48.36,A6305209U,Greece,Foam-Machine Operator,13621,Watching Sports,-,15.0,0.0
+626,Lang,Doris,F,1.39,48.4,56669591J,Hungary,"Ultrasonic-Seaming-Machine Operator, Semiautomatic",72380,Relaxing,-,25.0,1.0
+627,Cook,Linda,F,1.82,40.36,31778729K,Singapore,Restaurant Chain Executive,50829,Socializing,Bentley,29.0,0.0
+628,Bright,William,M,1.66,56.56,46069116E,Saudi Arabia,"Supervisor, Vendor Quality",26954,Relaxing,-,15.0,0.0
+629,Bush,Terry,M,1.76,48.36,H2489329J,France,Collet Gluer,100488,Watching Sports,-,32.0,0.0
+630,Mcgee,Theresa,F,1.62,44.8,29191020M,Bulgaria,"Package Sealer, Machine",13894,Beach,-,23.0,1.0
+631,Ayala,Eugene,M,1.59,63.1,20490362N,Indonesia,Plodder Operator,9551,Motorcycling,-,27.0,1.0
+632,Hartman,Benjamin,M,1.78,48.36,25656446V,China,"Knitting-Machine Operator, Full-Fashioned Hosiery, Automatic",20666,Working on Cars,-,20.0,1.0
+633,Huffman,Cheryl,F,1.81,39.32,S1530515Z,Argentina,Automotive-Tire Tester,16310,Running,-,38.0,0.0
+634,Kinney,Andrew,M,1.93,55.21,Z9609697D,Hungary,"Editor, Publications",147463,Computer Games,-,24.0,0.0
+635,Bradford,Kayla,F,1.41,39.32,Y1482237K,Spain,"Supervisor, Blood-Donor Recruiters",93519,Gardening,-,30.0,1.0
+636,Rowland,Christine,F,1.57,42.01,W7850400T,Japan,Leather Cleaner,138672,Watching Sports,Aston Martin,37.0,1.0
+637,Barr,Gloria,F,1.65,56.9,81477442S,China,"Filter Tender, Jelly",45911,Bowling,-,23.0,0.0
+638,Riddle,Sarah,F,1.39,53.31,J7629142S,Germany,Flasher Adjuster,16628,Swimming,-,27.0,2.0
+639,Donaldson,Kimberly,F,1.71,56.44,T0765471R,Indonesia,Silo Operator,11686,Hiking,-,24.0,1.0
+640,Mosley,Melissa,F,1.54,47.79,C4182484S,Czechia,Conditioner Tender,68633,Beach,-,40.0,1.0
+641,Melton,Ann,F,1.82,39.32,Z4734780E,Indonesia,"Supervisor, Garment Manufacturing",27430,Tennis,-,38.0,1.0
+642,Benton,Ralph,M,1.87,60.8,42955213G,Portugal,Waist Pleater,7250,Entertaining,-,27.0,1.0
+643,Gonzalez,Lisa,F,1.68,49.53,83757194B,Australia,Belt-Press Operator I,30686,Beach,-,28.0,0.0
+644,Snow,Diana,F,1.82,50.02,L9125633E,France,Belt-Maker Helper,13528,Going to Movies,-,34.0,1.0
+645,Curry,Kathleen,F,1.73,50.33,64785375Q,Bulgaria,Shoe-Repair Supervisor,22763,Team Sports,-,36.0,0.0
+646,Stephenson,Catherine,F,1.63,45.75,78564936F,Italy,Mash Grinder,15508,Camping,-,26.0,0.0
+647,Cash,Jack,M,1.82,58.06,50060105P,Latvia,Pearl Restorer,9087,Traveling,-,27.0,1.0
+648,Whitley,Dylan,M,1.89,56.25,U9046248F,Lithuania,Jigger,33564,Entertaining,-,20.0,2.0
+649,Bullock,Abigail,F,1.48,41.72,29004533O,Brazil,Ball Assembler,12076,Family Time,-,35.0,1.0
+650,Barton,Peter,M,1.83,55.37,R9379113B,Croatia,Spray-Gun-Repairer Helper,35766,Watching TV,-,27.0,0.0
+651,Foreman,Albert,M,1.94,61.77,U4151987F,Finland,Hothouse Worker,41093,Shopping,Tesla,30.0,0.0
+652,Case,Johnny,M,1.67,78.68,F0550447V,Poland,Truss Assembler,17089,Writing,-,19.0,0.0
+653,Herring,Anthony,M,1.94,63.27,J5466578L,Germany,"Welder Apprentice, Gas",16881,Camping,-,30.0,1.0
+654,Jennings,Benjamin,M,1.74,50.85,A8030250N,Czechia,Wafer Mounter,79642,Team Sports,-,36.0,1.0
+655,Morton,Keith,M,1.66,63.37,P0448713D,South Korea,Stereotyper,10120,Writing,-,29.0,1.0
+656,Greene,Amber,F,1.4,44.21,S0872695G,France,"Supervisor, Finishing-And-Shipping",69406,Bicycling,-,32.0,0.0
+657,Mooney,Peter,M,1.92,48.36,O4025552T,Argentina,Lithographic Platemaker,68994,Fishing,-,40.0,1.0
+658,Rivas,Deborah,F,1.75,42.36,31349800N,Cyprus,Dump Operator,13209,Watching Sports,-,33.0,0.0
+659,Sexton,Danielle,F,1.82,56.06,G7918396C,Brazil,Packing-House Supervisor,23027,Animal Care,-,34.0,1.0
+660,Rosario,Theresa,F,1.66,50.1,P0181568O,Senegal,"Supervisor, Electronics Systems Maintenance",26995,Swimming,-,34.0,0.0
+661,Irwin,Ann,F,1.74,42.42,S5933486U,Spain,Rubber,83387,Gardening,-,31.0,0.0
+662,Travis,Logan,M,1.68,69.59,Z5353232O,Portugal,"Supervisor, Finishing Department",50849,Golf,-,38.0,1.0
+663,Erickson,Jerry,M,1.83,77.66,26703936X,Russia,Process Checker,62308,Watching Sports,-,33.0,1.0
+664,Bowers,Ann,F,1.51,57.45,B3592352X,South Africa,"Teacher, Secondary School",37048,Computer Games,-,35.0,1.0
+665,Yang,Noah,M,1.94,74.87,H9386300X,South Africa,In-Flight Refueling System Repairer,55243,Golf,-,35.0,1.0
+666,Summers,Justin,M,1.94,67.64,61645776B,South Africa,Night Auditor,81084,Traveling,-,28.0,0.0
+667,Dennis,Nicole,F,1.63,49.79,Y4520819M,France,Fitter Ii,9126,Family Time,-,32.0,1.0
+668,Barber,Gloria,F,1.73,59.23,C4125038K,Germany,Gas-Engine Repairer,12455,Team Sports,-,31.0,0.0
+669,Wyatt,Brian,M,1.94,48.36,28168706B,Brazil,Technical Operator,37916,Fishing,-,35.0,1.0
+670,Emerson,Benjamin,M,1.73,68.16,U5590257H,Slovakia,Oriental-Rug Repairer,13081,Playing Music,-,29.0,2.0
+671,Mcconnell,Victoria,F,1.74,51.09,U5500545G,United States of America,Pot-Lining Supervisor,99774,Playing Cards,-,21.0,0.0
+672,Pratt,John,M,1.84,96.29,U0258837N,South Africa,Steel-Pourer Helper,35022,Entertaining,-,32.0,1.0
+673,Barker,Aaron,M,1.83,80.34,64811999J,Austria,"Chemist, Wastewater-Treatment Plant",26726,Computer Games,-,29.0,0.0
+674,Chapman,Rebecca,F,1.69,42.8,Y7389303N,Spain,Electric-Motor Assembler,22477,Family Time,-,31.0,1.0
+675,Munoz,Tyler,M,1.7,58.23,U2728988H,Senegal,"Supervisor, Incinerator Plant",49686,Golf,General Motors,25.0,1.0
+676,Kramer,Betty,F,1.48,59.65,47183214J,Japan,Pit Steward,66786,Horseback Riding,Volkswagen,28.0,0.0
+677,Dunlap,Robert,M,1.53,53.21,35492060L,Canada,Chair Upholsterer,20898,Working on Cars,-,15.0,0.0
+678,Grant,Edward,M,1.54,48.36,I9112592Q,Croatia,Quality-Control Clerk,7594,Horseback Riding,-,35.0,1.0
+679,Blanchard,Eugene,M,1.94,55.38,56000508S,China,"Armature-Winder Helper, Repair",96689,Fishing,Honda,28.0,1.0
+680,Bonner,Ryan,M,1.94,64.23,N2172972C,Turkey,"Inspector, Slide Fasteners",100591,Theater,-,29.0,1.0
+681,Rivers,Walter,M,1.84,56.81,58903525K,Latvia,Cutting-And-Printing-Machine Operator,139392,Reading,-,19.0,1.0
+682,Oneill,Judy,F,1.44,43.34,47580219F,Mexico,"Buffer, Automatic",8193,Painting,-,24.0,1.0
+683,Leon,Alexis,F,1.58,42.67,50726519W,Vietnam,"Laboratory Assistant, Culture Media",78519,Cooking,-,35.0,0.0
+684,Rivers,Teresa,F,1.82,46.56,48603237G,Germany,Power-Reactor Operator,39455,Team Sports,-,33.0,0.0
+685,Allison,Roy,M,1.67,50.43,56697102N,Netherlands,Buyer,17773,Gardening,-,15.0,0.0
+686,Nolan,Zachary,M,1.61,48.36,C8944561I,Indonesia,Lye-Peel Operator,39992,Crafts,-,29.0,1.0
+687,Wynn,Paul,M,1.68,48.36,P8260643U,France,Hogshead Hooper,135767,Horseback Riding,Jaguar,28.0,0.0
+688,Armstrong,Angela,F,1.39,39.91,33971767G,Canada,Value Engineer,16059,Horseback Riding,-,32.0,1.0
+689,Wagner,Brittany,F,1.56,39.6,G5174424J,Bulgaria,Surgical Technician,58778,Listening to Music,Nissan,39.0,2.0
+690,Mckenzie,Kyle,M,1.72,55.18,52832654P,Mexico,"Spooler, Sequins",166643,Exercise,-,23.0,1.0
+691,Leblanc,Nicholas,M,1.77,56.07,62935481U,Romania,"Ice Maker, Skating Rink",16652,Dancing,-,30.0,1.0
+692,Craft,Adam,M,1.94,57.91,Q4980399Z,Greece,"Supervisor, Veneer",27785,Bicycling,-,33.0,0.0
+693,Vinson,Barbara,F,1.4,49.49,X6969275E,Hungary,Casino Host,81070,Tennis,Suzuki,35.0,1.0
+694,Sharp,Stephanie,F,1.68,52.5,U2725306I,Chile,Making-Line Worker,49074,Volunteer Work,-,32.0,1.0
+695,Savage,Nathan,M,1.89,61.73,83554254B,Argentina,Refrigeration-Mechanic Helper,14550,Socializing,-,25.0,2.0
+696,Mosley,Jacqueline,F,1.68,47.17,A8980418C,France,Cigarette-Making-Machine Operator,15291,Golf,-,36.0,0.0
+697,Browning,Amber,F,1.48,39.32,V6638970U,Croatia,Shoe-Lay-Out Planner,62929,Skiing,Maserati,27.0,1.0
+698,Dunn,Christina,F,1.39,39.32,40414856Q,Slovakia,Industrial Hygienist,10902,Theater,-,35.0,1.0
+699,Delgado,William,M,1.77,65.24,R0626235L,China,Motorboat Mechanic,6168,Running,-,36.0,1.0
+700,Mcgowan,Alexis,F,1.6,40.54,O5404982I,Japan,Planing-Machine Operator,16096,Dancing,-,31.0,0.0
+701,Burt,David,M,1.52,57.31,24476813N,Spain,Pumper,41567,Traveling,Jaguar,31.0,0.0
+702,Lewis,Lori,F,1.54,42.74,N6875902Y,Slovenia,Liquid-Fertilizer Servicer,82336,Playing Cards,-,38.0,0.0
+703,Watts,Sharon,F,1.69,45.11,N9176900V,Bulgaria,Decal Applier,111404,Watching TV,-,28.0,1.0
+704,Barnett,Patrick,M,1.94,64.64,I4081052U,Vietnam,"Printed Circuit Board Component Tester, Chemical",16531,Boating,-,17.0,1.0
+705,Wiggins,Carolyn,F,1.44,39.48,14163016A,Argentina,"Radiologic Technologist, Chief",82823,Family Time,Chrysler,30.0,0.0
+706,Allen,Logan,M,1.88,51.05,X4341134X,Thailand,Weigher,14166,Boating,-,22.0,1.0
+707,Lane,Jonathan,M,1.82,52.35,14329990W,Canada,"Teacher, Physically Impaired",13264,Sewing,-,21.0,0.0
+708,Pickett,Jonathan,M,1.58,48.36,D6641814N,Australia,Steel-Pan-Form-Placing Supervisor,37750,Theater,-,29.0,1.0
+709,Hahn,Teresa,F,1.52,50.76,W6498589I,Senegal,Track-Moving-Machine Operator,22011,Fishing,-,33.0,1.0
+710,Santiago,Doris,F,1.56,50.37,48047307J,United Kingdom,Rim-Turning Finisher,24940,Playing Music,-,25.0,1.0
+711,Downs,Anna,F,1.47,44.88,35026249W,France,Foreign-Exchange-Position Clerk,38278,Billiards,-,29.0,1.0
+712,Faulkner,Sarah,F,1.68,46.25,50993896T,Lithuania,Seed Analyst,28490,Motorcycling,-,34.0,1.0
+713,Branch,Natalie,F,1.53,48.54,Z3722226N,Australia,Basket Patcher,13945,Housework,-,30.0,1.0
+714,Barron,Tyler,M,1.85,48.36,Q1153464A,China,Warper,21438,Bicycling,-,15.0,1.0
+715,Talley,Sharon,F,1.8,49.85,F6564670N,Brazil,Pantry Goods Maker,11274,Watching TV,-,39.0,2.0
+716,Harrington,Thomas,M,1.94,48.36,60978446I,Bulgaria,Clean-Rice Grader And Reel Tender,80780,Playing Cards,-,26.0,1.0
+717,Mays,Linda,F,1.82,39.32,P1048948C,China,"Supervisor, Cloth Winding",98604,Painting,Bugatti,28.0,0.0
+718,Torres,Stephen,M,1.94,69.62,A5449945H,Luxembourg,Mica-Plate Layer,11486,Theater,-,29.0,1.0
+719,Decker,Beverly,F,1.73,45.09,46975981O,Sweden,"Coper, Hand",48584,Running,-,37.0,1.0
+720,Carpenter,Jonathan,M,1.72,66.36,55282551N,Hungary,Collator Operator,44283,Hunting,-,24.0,0.0
+721,Lopez,Grace,F,1.39,50.45,N8446617L,Chile,Laboratory Chief,23808,Watching TV,-,42.0,1.0
+722,Luna,Raymond,M,1.61,67.35,W6596062Q,Vietnam,Pen-And-Pencil Repairer,144379,Traveling,-,44.0,1.0
+723,Cantu,Christine,F,1.58,42.89,09274193X,Austria,Boring-Machine Operator,41717,Billiards,-,39.0,0.0
+724,Ward,Angela,F,1.82,44.43,70512283J,Finland,Votator-Machine Operator,42169,Gardening,-,33.0,2.0
+725,Chen,Michael,M,1.86,59.52,80765100H,Singapore,Thermal-Cutting-Machine Operator,124558,Bowling,-,28.0,0.0
+726,Graves,Zachary,M,1.6,79.48,P5267920B,Germany,Liquefaction-Plant Operator,99175,Running,-,33.0,0.0
+727,Griffin,Mary,F,1.39,50.17,P1914951J,Slovenia,Crown Attacher,46416,Walking,-,36.0,1.0
+728,Tran,Rachel,F,1.55,53.71,57186539P,Indonesia,Electromyographic Technician,40288,Shopping,-,31.0,2.0
+729,Acosta,Kelly,F,1.44,39.32,36823225V,Argentina,Book-Sewing-Machine Operator I,39950,Reading,-,29.0,0.0
+730,Levy,Willie,M,1.53,59.98,83244695I,Poland,"Inspector, Plastics And Composites",19110,Animal Care,-,36.0,0.0
+731,Barker,Laura,F,1.82,48.08,C4464009P,Mexico,Dynamite-Packing-Machine Feeder,127831,Walking,-,39.0,1.0
+732,Mcconnell,Christine,F,1.4,42.04,44505941B,Egypt,Matchbook Assembler,13263,Traveling,-,26.0,1.0
+733,Dunn,Zachary,M,1.76,85.51,M5707217A,Turkey,"Irrigator, Head",19479,Billiards,-,36.0,0.0
+734,Bryant,Louis,M,1.91,70.91,B4064391M,Vietnam,Table Operator,10375,Reading,-,26.0,0.0
+735,Whitehead,Maria,F,1.63,50.9,73944910W,Finland,Parts Remover,39118,Swimming,-,25.0,2.0
+736,Shelton,Judy,F,1.67,43.12,D2570185Y,United States of America,Delineator,8427,Playing Cards,-,15.0,1.0
+737,Sears,Sara,F,1.56,42.38,C5210596R,Saudi Arabia,Dope-Dry-House Operator,38872,Listening to Music,-,40.0,0.0
+738,Sharp,Carl,M,1.94,59.75,U3979948F,China,"Sales Representative, Barber And Beauty Equipment And Supplies",119346,Sewing,Chevrolet,37.0,1.0
+739,Craig,Albert,M,1.94,59.68,P0777429B,Ireland,Soap Grinder,50724,Boating,Pagani,22.0,1.0
+740,Rowe,Catherine,F,1.6,44.07,15861466Q,Senegal,Saturator Operator,7639,Crafts,-,28.0,1.0
+741,Mathis,Susan,F,1.39,44.8,D8211061I,Argentina,Mirror-Machine Feeder,38711,Motorcycling,-,26.0,1.0
+742,Boone,Frank,M,1.84,80.97,G3678040K,Portugal,Orthotics Assistant,21809,Animal Care,-,37.0,1.0
+743,Wilkins,Russell,M,1.75,55.21,K6312475B,Finland,Cd-Mixer,238250,Relaxing,-,28.0,1.0
+744,Green,Kevin,M,1.94,73.29,75504305I,Egypt,Lens-Block Gauger,18938,Hiking,-,28.0,1.0
+745,Erickson,Megan,F,1.81,54.16,55459082O,Germany,Scale-Reclamation Tender,69403,Hiking,Suzuki,35.0,0.0
+746,Howell,James,M,1.87,57.21,20300344D,Russia,Burner,41582,Sleeping,GMC,34.0,0.0
+747,Sampson,Sean,M,1.72,80.68,78215905B,Poland,"Template Maker, Track",19691,Boating,-,26.0,0.0
+748,Rice,Aaron,M,1.74,69.19,W6056867C,Slovakia,Gas-Engine Repairer,8095,Playing Music,-,18.0,1.0
+749,Maxwell,Anthony,M,1.85,62.67,66464867B,Chile,Rotary-Kiln Operator,21434,Sewing,-,27.0,0.0
+750,Martinez,Sophia,F,1.52,40.87,82150679W,Portugal,Cd-Reactor Operator,175962,Socializing,-,29.0,1.0
+751,Santiago,Gary,M,1.52,48.36,X9714083E,Hungary,Bedder,14749,Relaxing,-,41.0,1.0
+752,Campos,Abigail,F,1.72,43.37,M1828074G,Singapore,Automobile-Accessories Installer,28407,Running,-,29.0,2.0
+753,Brown,Karen,F,1.56,51.32,H3486018W,Spain,Wash Operator,34078,Watching Sports,-,42.0,1.0
+754,Deleon,Sandra,F,1.39,46.77,69112361X,Czechia,Stock Shaper,13960,Team Sports,-,39.0,2.0
+755,Banks,Stephen,M,1.85,70.92,B9846832Z,Hungary,Market Researcher,89606,Sleeping,-,48.0,1.0
+756,Hoover,Henry,M,1.89,55.46,L8641441B,France,Sugar Drier,80235,Motorcycling,-,30.0,0.0
+757,Welch,Heather,F,1.45,40.51,K1912096X,Australia,Heavy-Forger Helper,34522,Sewing,-,27.0,0.0
+758,Callahan,Danielle,F,1.72,57.55,Q8821872D,Russia,Fabric Stretcher,7990,Eating Out,-,32.0,0.0
+759,Clements,Gerald,M,1.92,73.26,H9343948N,Belgium,Roll-Tension Tester,14538,Boating,-,19.0,1.0
+760,Le,Elizabeth,F,1.45,59.02,75064441T,Netherlands,"Sales Representative, Franchise",41204,Computer Games,-,29.0,1.0
+761,Kramer,Jeffrey,M,1.74,48.36,K4435212M,Singapore,Roll-Forming-Machine Set-Up Mechanic,31859,Beach,-,15.0,0.0
+762,Merrill,Catherine,F,1.7,49.73,L5884988J,Greece,"Sales Representative, Hardware Supplies",39146,Horseback Riding,-,47.0,1.0
+763,Garrison,Denise,F,1.68,39.32,24364639J,Estonia,Public Health Physician,67845,Team Sports,-,24.0,0.0
+764,Warren,Lori,F,1.46,39.39,R5954482Q,Australia,Car Icer,53990,Entertaining,GMC,33.0,1.0
+765,Mayo,Alexander,M,1.79,56.74,Y7695724J,Germany,Carton-Counter Feeder,46038,Eating Out,Hyundai,17.0,1.0
+766,Greer,Ruth,F,1.54,51.05,N1111697O,Japan,Sanitary Landfill Operator,42296,Golf,Renault,36.0,0.0
+767,Padilla,George,M,1.69,49.78,J8887396B,Portugal,Surgical-Forceps Fabricator,27615,Camping,-,22.0,1.0
+768,Melendez,Robert,M,1.68,48.36,34383772F,Greece,"Supervisor, Dry Paste",15948,Sleeping,-,22.0,1.0
+769,Fitzgerald,Laura,F,1.76,42.76,28740119B,Mexico,Mosaicist,19177,Hunting,-,30.0,1.0
+770,Sexton,Johnny,M,1.94,72.46,I7227528C,Ireland,Animal Trainer,187336,Family Time,-,31.0,2.0
+771,Alvarez,Bruce,M,1.52,61.4,I6585526L,Netherlands,Logistics Engineer,20796,Playing Music,-,23.0,1.0
+772,Pierce,Jeffrey,M,1.94,72.38,S1228754G,Czechia,Base Filler,110563,Exercise,Mazda,25.0,2.0
+773,Herrera,Marilyn,F,1.39,49.48,21780824S,Portugal,"Filter Tender, Jelly",34595,Crafts,-,28.0,0.0
+774,Baldwin,Donna,F,1.82,52.09,12791969A,Czechia,Wash-Oil-Pump Operator Helper,18023,Playing Music,-,28.0,1.0
+775,Steele,Alice,F,1.39,39.32,O4919352R,Luxembourg,Insulator Tester,56947,Animal Care,Suzuki,27.0,1.0
+776,Burnett,Julie,F,1.54,44.84,G3862104D,Canada,Photo-Optics Technician,114797,Running,-,32.0,1.0
+777,Buckner,Terry,M,1.91,53.24,V5690681N,Italy,Industrial-Truck Operator,10372,Golf,-,30.0,0.0
+778,Small,Gabriel,M,1.77,63.72,67342315Z,Ireland,"Service Technician, Computerized-Photofinishing Equipment",26280,Working on Cars,-,33.0,0.0
+779,Hubbard,Alexis,F,1.82,45.63,47170365D,Hungary,Melter,20178,Traveling,-,33.0,0.0
+780,Brock,Lawrence,M,1.74,54.58,W8228927I,Bulgaria,Keymodule-Assembly-Machine Tender,33235,Hunting,-,30.0,0.0
+781,Wheeler,Daniel,M,1.71,72.18,G0841967X,South Korea,Well-Drill Operator,59805,Crafts,Porsche,29.0,1.0
+782,Gilliam,Bryan,M,1.93,48.36,59985883A,Slovakia,Laminator Ii,24816,Dancing,-,33.0,1.0
+783,Pitts,Justin,M,1.94,74.89,13297512N,Italy,Controls Designer,95138,Watching TV,TATA Motors,23.0,0.0
+784,Solomon,Brenda,F,1.42,50.25,O3599976T,Argentina,Line Repairer,140722,Hunting,-,31.0,1.0
+785,Levy,Joan,F,1.51,39.32,Z0166533I,Indonesia,Platen-Press Feeder,60019,Walking,-,33.0,0.0
+786,Maxwell,James,M,1.83,49.52,X2662369G,Ireland,"Loader, Magazine Grinder",39113,Cooking,-,31.0,0.0
+787,Blankenship,Madison,F,1.74,42.65,Q3078113S,Czechia,Mirror Installer,35532,Horseback Riding,-,29.0,0.0
+788,Hughes,Samuel,M,1.74,48.93,47290742S,Thailand,Solar Photovoltaic Installer,51344,Hiking,Ferrari,24.0,0.0
+789,Fleming,Patricia,F,1.59,39.32,N9720506U,Estonia,Carpenter Inspector,19592,Playing Music,-,22.0,0.0
+790,Duke,Sophia,F,1.77,41.71,60457143H,France,"Farmworker, Diversified Crops Ii",42702,Eating Out,-,27.0,0.0
+791,Dixon,Roy,M,1.91,71.32,63563335S,Denmark,Food-And-Beverage Checker,34946,Team Sports,-,44.0,2.0
+792,Spears,Patrick,M,1.94,58.71,16794642H,United Kingdom,Screener Operator,24835,Sleeping,-,15.0,1.0
+793,Gibbs,Roger,M,1.65,48.36,12887190U,Czechia,Quality Assurance Supervisor,18192,Crafts,-,15.0,1.0
+794,Boyle,Grace,F,1.51,47.62,H4701470I,Romania,Curtain-Stretcher Assembler,24489,Bicycling,-,29.0,1.0
+795,Mercer,Ralph,M,1.52,53.53,U3829294K,Finland,"Drill-Press Set-Up Operator, Radial",17357,Shopping,-,20.0,1.0
+796,Bell,Karen,F,1.39,47.53,68265533I,Lithuania,"Technician, Submarine Cable Equipment",105969,Working on Cars,-,30.0,0.0
+797,Lindsey,Roy,M,1.77,74.56,G5397348Z,Brazil,Control-Panel Tester,130014,Relaxing,-,26.0,0.0
+798,Phelps,Catherine,F,1.55,48.16,C3077850E,India,"Armature-Winder Helper, Repair",26631,Walking,-,41.0,1.0
+799,Patrick,Betty,F,1.39,52.88,16980834Q,France,Rocket-Engine-Component Mechanic,54175,Fishing,-,26.0,1.0
+800,Mcbride,Jeremy,M,1.52,48.36,K6224669J,Italy,"Plater, Printed Circuit Board Panels",44938,Bowling,-,29.0,1.0
+801,Howell,Shirley,F,1.68,49.13,W2786820T,Greece,Trailer-Rental Clerk,8780,Hunting,-,37.0,0.0
+802,Mullins,Gary,M,1.84,72.5,55351144Z,Austria,"Supervisor, Mold-Making Plastics Sheets",30735,Crafts,-,21.0,1.0
+803,Maxwell,Andrea,F,1.39,44.18,V1440476L,Estonia,Repeat-Photocomposing-Machine Operator,33445,Walking,-,25.0,1.0
+804,Valentine,Aaron,M,1.52,48.36,58448838D,Lithuania,Semiconductor Processor,19215,Swimming,-,22.0,0.0
+805,Powell,Edward,M,1.83,66.76,Y7503769B,Spain,Recruit Instructor,84185,Housework,-,15.0,0.0
+806,Herring,Jacqueline,F,1.39,39.32,65805530D,South Korea,Carbon Rod Inserter,7222,Hunting,-,36.0,2.0
+807,Logan,Kenneth,M,1.61,64.69,26164332H,Portugal,Needle Grinder,13827,Fishing,-,24.0,1.0
+808,Robles,Laura,F,1.66,39.32,32316778U,China,Computer Peripheral Equipment Operator,58198,Hiking,Nissan,25.0,0.0
+809,Mcclure,Daniel,M,1.84,48.36,N8457966O,Lithuania,Margin Clerk I,24267,Boating,-,38.0,0.0
+810,Stewart,Jerry,M,1.84,86.28,02719702Z,United States of America,Watch Assembler,91164,Painting,Aston Martin,26.0,1.0
+811,Riley,Scott,M,1.94,66.99,43132502H,Hungary,Turner,9338,Writing,-,29.0,1.0
+812,Carpenter,Tyler,M,1.69,78.39,72135871A,Spain,Syrup Maker,18661,Family Time,-,29.0,0.0
+813,Horn,Karen,F,1.52,39.32,T3201369T,Slovakia,Ultrasonic-Seaming-Machine Operator,93090,Eating Out,-,32.0,1.0
+814,Rosales,Amanda,F,1.56,45.51,I3690701T,Malta,Sociologist,55502,Socializing,Acura,36.0,0.0
+815,Boyer,Gloria,F,1.39,39.32,19566112R,Argentina,Locomotive Operator Helper,60047,Hunting,Aston Martin,33.0,1.0
+816,Mayer,Alice,F,1.73,39.32,29618599G,Spain,Refrigerator Tester,27767,Exercise,-,29.0,0.0
+817,Thomas,Laura,F,1.7,51.65,S3961523U,Hungary,"Stone Polisher, Machine",7073,Motorcycling,-,35.0,0.0
+818,Porter,Jean,F,1.66,50.26,N1738403X,Bulgaria,Warp-Tension Tester,16985,Family Time,-,33.0,0.0
+819,Deleon,William,M,1.52,71.07,53336631S,Indonesia,"Supervisor, Cemetery Workers",19731,Socializing,-,30.0,0.0
+820,Kennedy,Deborah,F,1.39,48.11,79563463H,Brazil,Faller Ii,7199,Playing Cards,-,25.0,1.0
+821,Dawson,Mary,F,1.64,49.8,H4246183S,Luxembourg,"Driller And Deburrer, Reflector",94222,Eating Out,-,28.0,0.0
+822,Rosario,Grace,F,1.49,43.95,13290620M,Cyprus,Feed And Farm Management Adviser,9026,Watching Sports,-,33.0,1.0
+823,Sheppard,Matthew,M,1.88,56.83,T1273828D,Germany,Steel-Shot-Header Operator,14239,Theater,-,28.0,0.0
+824,Moreno,Jean,F,1.82,47.07,N7388223D,Romania,Geological Engineer,16334,Housework,-,28.0,0.0
+825,Browning,Russell,M,1.52,59.64,47850935V,Austria,Timekeeper,59945,Animal Care,Renault,18.0,1.0
+826,White,Randy,M,1.86,63.21,28005473S,Mexico,Hat-Block Maker,81533,Exercise,-,16.0,0.0
+827,Farrell,Marie,F,1.39,44.46,G3716716J,Netherlands,"Etcher, Electrolytic",56027,Horseback Riding,Mini,36.0,1.0
+828,Gordon,Joan,F,1.54,42.76,37116777C,Bulgaria,Microfilm Processor,23356,Sewing,-,33.0,1.0
+829,Chase,Maria,F,1.59,43.3,F3834752P,Estonia,Scaler-Packer,11455,Bicycling,-,32.0,1.0
+830,Pruitt,Ronald,M,1.84,73.57,80934812I,Estonia,Scarf Gluer,38412,Camping,-,29.0,1.0
+831,Hood,Judy,F,1.53,48.36,M9096722Y,France,Reservationist,21024,Walking,-,29.0,0.0
+832,Atkins,Aaron,M,1.93,56.42,K8544729W,South Africa,"Sizer, Machine",6031,Team Sports,-,41.0,2.0
+833,Joseph,Bryan,M,1.94,51.66,D5608530W,Saudi Arabia,Canopy Stringer,203282,Volunteer Work,-,27.0,1.0
+834,Burks,Kathleen,F,1.55,39.32,86846183F,Cyprus,Kiln Loader,67531,Bowling,-,34.0,0.0
+835,Mercado,Barbara,F,1.78,39.32,73793374J,United States of America,"Lawyer, Corporation",65098,Swimming,-,30.0,1.0
+836,Randall,Daniel,M,1.72,61.54,S7597340F,Sweden,Frame Repairer,28983,Skiing,-,19.0,0.0
+837,Holmes,Denise,F,1.53,49.25,12849342B,Slovenia,Compressor,88381,Painting,-,36.0,0.0
+838,Irwin,Grace,F,1.82,52.68,L3160048Q,Belgium,Drip Pumper,41584,Housework,Peugeot,41.0,1.0
+839,Allison,Donald,M,1.61,54.13,M3559039K,Japan,"Drafter, Cartographic",10865,Hunting,-,22.0,0.0
+840,Cohen,Kimberly,F,1.8,55.91,R3878005D,Slovakia,Printmaker,21875,Exercise,-,34.0,2.0
+841,Barr,Danielle,F,1.82,57.17,44889828I,South Africa,"Sleeve Maker, Lockstitch",187818,Watching Sports,-,27.0,1.0
+842,Mcneil,Carl,M,1.74,54.23,U1923518A,Indonesia,"Supervisor, Commissary Production",21851,Sewing,-,38.0,1.0
+843,Daugherty,Ann,F,1.54,49.25,E8362432C,Russia,Filter Operator,108041,Watching TV,-,42.0,1.0
+844,Erickson,Brandon,M,1.85,49.44,58661175H,Cyprus,Intelligence Clerk,90971,Skiing,-,39.0,1.0
+845,Mason,Evelyn,F,1.76,52.79,C4095580U,Latvia,"Hydroelectric-Station Operator, Chief",33689,Beach,-,43.0,1.0
+846,Fletcher,Helen,F,1.51,46.19,53064468D,Latvia,"Screw-Machine Set-Up Operator, Swiss-Type",42696,Motorcycling,-,30.0,0.0
+847,Fernandez,Angela,F,1.74,47.09,35103624K,South Africa,Electronic-Organ Technician,24491,Bowling,-,29.0,1.0
+848,Carey,Joshua,M,1.77,55.09,I3901339V,Sweden,Crutcher,71125,Volunteer Work,-,26.0,0.0
+849,Webb,Nancy,F,1.77,48.26,R8892971K,Slovenia,Cutter,6502,Housework,-,23.0,1.0
+850,Park,Julia,F,1.69,54.19,I9691176F,Saudi Arabia,Paymaster Of Purses,7265,Horseback Riding,-,27.0,0.0
+851,Gentry,Gloria,F,1.7,39.32,50037243A,Canada,Accounting Director,41722,Tennis,-,34.0,1.0
+852,Olsen,Doris,F,1.59,44.72,P7612552K,United States of America,Partition Assembler,181119,Computer Games,Porsche,28.0,0.0
+853,Chase,Joseph,M,1.94,68.4,M8338172H,Vietnam,"Director, Field Services",36307,Camping,-,17.0,1.0
+854,Stone,Scott,M,1.8,60.61,10228149G,Austria,Last-Repairer Helper,105410,Camping,-,23.0,0.0
+855,Shepherd,Sarah,F,1.53,45.04,V0668411F,Italy,Hogshead Cooper I,42427,Playing Cards,-,36.0,0.0
+856,Casey,Richard,M,1.93,62.31,H7157734H,Denmark,Customs Import Specialist,31029,Shopping,-,18.0,1.0
+857,Myers,Ethan,M,1.88,52.14,45993036F,India,Ticket Broker,58264,Swimming,-,25.0,0.0
+858,Buckley,Sharon,F,1.58,49.41,Q6371252S,Netherlands,"Drafter, Directional Survey",18389,Animal Care,-,38.0,0.0
+859,Boyd,Gerald,M,1.94,69.8,M1555928D,Cyprus,Auto-Design Checker,8825,Playing Music,-,27.0,1.0
+860,Grant,Bradley,M,1.69,62.93,W7131838R,Romania,Fur Designer,38713,Running,-,30.0,0.0
+861,Spence,Richard,M,1.78,54.29,48600870Y,Slovakia,"Commander, Internal Affairs",14625,Volunteer Work,-,39.0,1.0
+862,Mcintyre,Sandra,F,1.39,50.32,H3911482C,Poland,Garbage Collector Driver,92749,Entertaining,Acura,26.0,0.0
+863,Baker,Michael,M,1.72,67.44,D8366192R,Thailand,"Conductor, Orchestra",10974,Entertaining,-,24.0,0.0
+864,Foley,Teresa,F,1.6,52.69,53847350V,Indonesia,"Supervisor, Sound Technician",9790,Family Time,-,36.0,0.0
+865,Marshall,Raymond,M,1.72,48.36,28230600U,Netherlands,Guidance Counselor,83308,Walking,Lamborghini,28.0,0.0
+866,Townsend,Ruth,F,1.4,48.63,42084625G,Japan,Instrument Mechanic,46871,Dancing,Jaguar,29.0,1.0
+867,Harris,Arthur,M,1.63,51.66,H5369013K,Czechia,Warp Coiler,20392,Crafts,-,34.0,2.0
+868,Le,Joe,M,1.79,48.36,W2439872Q,Czechia,Yarn-Polishing-Machine Operator,31638,Beach,-,30.0,1.0
+869,Black,Ann,F,1.49,42.6,N0250476T,Czechia,Pellet-Press Operator,20770,Listening to Music,-,24.0,1.0
+870,Vega,Carol,F,1.53,47.55,K7727040J,France,Surgical-Dressing Maker,31675,Bowling,-,32.0,0.0
+871,Griffin,Amy,F,1.57,39.32,46602212Y,Romania,Satellite-Instruction Facilitator,8296,Volunteer Work,-,28.0,1.0
+872,Bush,Helen,F,1.41,48.49,29661357G,Russia,Tin Recovery Worker,30754,Working on Cars,-,34.0,1.0
+873,Chandler,Jerry,M,1.75,48.36,H4368149N,Australia,Liner Reroll Tender,69115,Golf,Jeep,24.0,1.0
+874,Deleon,Mary,F,1.65,39.32,T1612436H,Senegal,Supplies Packer,51693,Sewing,-,37.0,1.0
+875,Cochran,Ronald,M,1.59,61.31,79411524E,South Korea,"Electrician, Aircraft",13964,Camping,-,35.0,1.0
+876,Cleveland,Stephanie,F,1.62,49.26,87501750Q,Turkey,Paper Sorter And Counter,14149,Boating,-,33.0,0.0
+877,Bell,Kyle,M,1.89,49.14,69449808A,Netherlands,Embroidery-Machine Operator,33853,Billiards,-,33.0,1.0
+878,Carrillo,Andrea,F,1.51,51.68,Y0297688X,Spain,Cloth-Shrinking-Machine-Operator Helper,121166,Watching Sports,-,35.0,1.0
+879,Bryant,Willie,M,1.94,56.35,B7848325K,Belgium,"Director, Community-Health Nursing",19947,Skiing,-,32.0,2.0
+880,George,Russell,M,1.81,48.36,28590913W,Netherlands,"Manager, Regulated Program",19868,Animal Care,-,37.0,1.0
+881,Harrington,Heather,F,1.63,49.53,W4414863J,Slovakia,"Steward/Stewardess, Bath",51783,Playing Cards,Koenigsegg,27.0,0.0
+882,Ramirez,Thomas,M,1.94,57.64,D9466465I,Japan,Beamer Helper,37557,Skiing,-,28.0,0.0
+883,Leblanc,Amy,F,1.58,39.32,57738585R,South Korea,Rip-And-Groove-Machine Operator,31382,Watching Sports,-,34.0,0.0
+884,Case,Kevin,M,1.73,71.19,X7317020C,Poland,Display Designer,15114,Beach,-,40.0,2.0
+885,Horton,Andrea,F,1.79,39.53,R1744329T,Finland,"Sizer, Hand",14025,Walking,-,29.0,1.0
+886,Valdez,Billy,M,1.88,63.01,78727657K,India,Silo Operator,41646,Computer Games,Kia,20.0,0.0
+887,Cruz,Peter,M,1.94,54.17,85937031C,Estonia,Manicurist,6652,Playing Cards,-,23.0,1.0
+888,Juarez,Ashley,F,1.64,45.65,B7672593Y,Hungary,Public Health Physician,68394,Eating Out,-,35.0,0.0
+889,Barnett,Christopher,M,1.94,66.3,23524630O,France,Roller Cleaner,50773,Boating,-,42.0,1.0
+890,Wilson,Matthew,M,1.64,48.86,P2420365K,Turkey,"Dye-Range Operator, Cloth",6818,Billiards,-,29.0,0.0
+891,William,Gabriel,M,1.94,59.14,87264910C,Luxembourg,Pleater,50788,Cooking,Rolls Royce,26.0,0.0
+892,Duran,Lauren,F,1.54,50.58,R3840979K,Estonia,Epitaxial Reactor Technician,9509,Listening to Music,-,32.0,0.0
+893,Dodson,Amanda,F,1.39,44.42,Y6247654N,Vietnam,"Guide, Travel",72796,Team Sports,-,28.0,1.0
+894,Bell,Joseph,M,1.85,68.58,29898028F,Japan,"Leak Tester, Semiconductor Packages",13543,Bowling,-,25.0,0.0
+895,Barnett,Sandra,F,1.59,43.13,I0930526X,Estonia,"Finisher, Fiberglass Boat Parts",73289,Tennis,-,37.0,2.0
+896,Phillips,Gloria,F,1.6,40.15,B5724878M,South Korea,Dust-Mill Operator,35871,Animal Care,-,25.0,1.0
+897,Conner,Eric,M,1.86,68.63,C7393241N,Cyprus,Electrical-Discharge-Machine Set-Up Operator,102429,Writing,-,25.0,1.0
+898,Mayo,Ronald,M,1.94,59.94,Q1225369U,Mexico,"Supervisor, Boiler Repair",36989,Fishing,-,15.0,0.0
+899,Woodard,Sarah,F,1.5,39.32,D8689853I,Slovenia,Dry-End Operator,120208,Watching TV,-,27.0,0.0
+900,Houston,Brenda,F,1.69,42.2,86294330J,France,Meat Clerk,38848,Exercise,-,40.0,1.0
+901,Dillon,Harold,M,1.56,48.36,83664703E,Netherlands,Brush-Head Maker,10957,Eating Out,-,25.0,1.0
+902,Castaneda,Joe,M,1.94,55.0,58088950R,Bulgaria,Rug-Sample Beveler,59482,Cooking,-,19.0,1.0
+903,Lamb,Katherine,F,1.44,48.4,27933774M,Denmark,Inserting-Machine Operator,61817,Going to Movies,General Motors,35.0,0.0
+904,Ware,Alexander,M,1.67,50.1,D3633069H,South Korea,Front-End Mechanic,17543,Walking,-,35.0,0.0
+905,Ramirez,Stephanie,F,1.76,39.32,S8484503F,Spain,Double-End-Trimmer-And-Boring-Machine Operator,95781,Crafts,-,40.0,1.0
+906,Meyer,Margaret,F,1.74,45.49,Y3876069Q,Czechia,Reclamation Worker,26360,Entertaining,-,37.0,1.0
+907,Sykes,Shirley,F,1.68,39.32,82337620U,Bulgaria,"Director, Television",26237,Bowling,-,22.0,2.0
+908,Craig,Daniel,M,1.92,61.82,Y1128980V,Finland,Director,55769,Skiing,Jeep,24.0,2.0
+909,Gilmore,Samantha,F,1.46,46.95,C5026420X,Canada,Microbiologist,77589,Relaxing,-,31.0,1.0
+910,Whitehead,Dorothy,F,1.61,43.6,L1692985B,Slovenia,Warehouse Traffic Supervisor,15310,Sleeping,-,40.0,1.0
+911,Randolph,Nicole,F,1.76,47.39,22217257E,France,Golf-Club Weigher,19160,Running,-,30.0,0.0
+912,Larsen,Noah,M,1.79,53.34,54905689I,Saudi Arabia,Quilt Stuffer,26168,Cooking,-,15.0,0.0
+913,Blackwell,Joshua,M,1.85,75.07,N5540583C,Latvia,"Channeler, Insole",14526,Volunteer Work,-,46.0,1.0
+914,Bentley,Sandra,F,1.44,47.23,O3736800K,Luxembourg,"Nurse, Private Duty",52077,Golf,-,31.0,1.0
+915,Webster,Robert,M,1.69,88.77,07393924Z,Slovenia,Seamless-Tube Roller,19296,Relaxing,-,43.0,1.0
+916,Gardner,Katherine,F,1.46,43.21,V3389332U,Portugal,"Inspector, Floor",216902,Entertaining,Jaguar,37.0,0.0
+917,Simon,Charles,M,1.94,64.67,40200914N,Bulgaria,Paraffin-Plant-Sweater Operator,19010,Housework,-,28.0,0.0
+918,Powell,Terry,M,1.82,65.65,61305771Q,Italy,Street-Light Cleaner,72546,Golf,Audi,33.0,1.0
+919,Beard,Bradley,M,1.62,65.51,13386931E,Germany,"Supervisor, Reactor Fueling",18435,Sewing,-,15.0,0.0
+920,Evans,Jesse,M,1.72,69.52,C9517684L,France,"Police Captain, Precinct",98571,Playing Cards,-,17.0,2.0
+921,Fry,Kevin,M,1.94,71.55,43555917X,Slovenia,Print-Line Feeder,27843,Boating,-,43.0,2.0
+922,Burks,Bobby,M,1.94,56.57,Y4197386T,Lithuania,Nurse Practitioner,41237,Cooking,Citroen,16.0,0.0
+923,Dean,Stephen,M,1.84,69.73,15578203D,Spain,"Quarry Supervisor, Open Pit",29523,Walking,-,30.0,1.0
+924,Stewart,Virginia,F,1.69,52.11,C7740807F,Netherlands,Systems Analyst,6507,Hunting,-,32.0,1.0
+925,Buckley,Mark,M,1.94,68.62,39098932P,Ireland,Microcomputer Support Specialist,14240,Computer Games,-,36.0,0.0
+926,Cameron,Albert,M,1.63,59.7,O1037599U,Brazil,Fluid-Power Mechanic,57021,Socializing,Lexus,26.0,1.0
+927,Wooten,Sara,F,1.39,57.53,U2048621G,Greece,Buckle-Strap-Drum Operator,14547,Housework,-,36.0,0.0
+928,Serrano,Kayla,F,1.7,43.46,Q3122227F,Argentina,"Irrigator, Gravity Flow",17053,Motorcycling,-,36.0,1.0
+929,Potts,Sean,M,1.94,48.36,46022344K,Belgium,Director Of Institutional Research,56046,Crafts,-,26.0,0.0
+930,Macias,Theresa,F,1.82,43.01,54342853B,Romania,Sewing-Machine Repairer,25039,Gardening,-,35.0,0.0
+931,Baxter,Noah,M,1.71,70.26,A8344823V,Slovenia,"Supervisor, Rag Room",8308,Exercise,-,28.0,0.0
+932,Armstrong,Amy,F,1.63,51.14,56123854J,Hungary,Electric-Motor Assembler And Tester,191407,Beach,Bentley,34.0,1.0
+933,Duffy,Christina,F,1.68,39.32,M3395518X,United Kingdom,Pad-Extractor Tender,35561,Playing Music,-,18.0,0.0
+934,Valentine,Eric,M,1.69,58.63,23497220A,Australia,Checker,21291,Shopping,-,35.0,1.0
+935,Gibbs,Bruce,M,1.94,61.9,E1365588I,Germany,"Supervisor, Instrument Maintenance",43329,Family Time,-,24.0,1.0
+936,Nguyen,Zachary,M,1.94,54.22,A5977255U,Vietnam,"Supervisor, Last-Model Department",13176,Relaxing,-,23.0,1.0
+937,Burton,David,M,1.8,68.87,D2276073Z,Canada,Defective-Cigarette Slitter,10442,Hunting,-,38.0,0.0
+938,Bradford,Janice,F,1.41,39.32,W8401089I,Slovenia,Crown-Wheel Assembler,76714,Dancing,Nissan,30.0,0.0
+939,Ferguson,Jerry,M,1.7,56.05,70135972O,South Africa,Save-All Operator,6485,Writing,-,15.0,0.0
+940,Goodwin,Barbara,F,1.41,40.55,30878358E,South Korea,"Detailer, School Photographs",20652,Horseback Riding,-,31.0,0.0
+941,Huber,Ryan,M,1.94,65.32,X6677270S,Turkey,Roller Operator,12455,Skiing,-,34.0,0.0
+942,Mercado,Deborah,F,1.67,44.16,P5816133A,Cyprus,"Buffing-Wheel Former, Hand",12675,Walking,-,28.0,0.0
+943,Washington,Lori,F,1.39,45.49,Y2736250S,Hungary,"Sorter, Agricultural Produce",88823,Running,-,30.0,0.0
+944,Bowman,Joe,M,1.94,74.29,M3116428Q,Greece,Audio-Video Repairer,56095,Hiking,Geely,22.0,0.0
+945,Stout,Gabriel,M,1.52,68.52,23448066T,South Korea,"Inspector, Publications",11855,Hiking,-,34.0,1.0
+946,Finch,Jesse,M,1.52,55.26,W6073862R,South Korea,Laboratory Assistant,14855,Playing Cards,-,32.0,2.0
+947,Benson,Thomas,M,1.73,60.23,75044844D,Romania,Screen Handler,35806,Reading,-,24.0,1.0
+948,Stark,Alexis,F,1.82,46.74,Q7622921D,Saudi Arabia,Paperhanger,17702,Listening to Music,-,38.0,1.0
+949,Phillips,Lauren,F,1.47,39.32,V7006567E,Ireland,"Steward/Stewardess, Third",60465,Housework,-,38.0,1.0
+950,Sullivan,Ann,F,1.65,43.52,12856638S,United States of America,"Burnisher, Balance Wheel Arm",98038,Housework,-,30.0,0.0
+951,Leblanc,Nancy,F,1.39,44.12,U6873402Z,South Africa,Singe Winder,15211,Walking,-,30.0,1.0
+952,Weiss,Gregory,M,1.6,57.42,D1003947R,France,Coloring Checker,15307,Walking,-,20.0,0.0
+953,Walls,Gloria,F,1.5,49.24,I7946919R,Estonia,Sheepskin Pickler,78981,Camping,Volkswagen,26.0,0.0
+954,Ellis,Laura,F,1.47,39.84,Q9085507X,Saudi Arabia,Pocket-Machine Operator,35872,Tennis,-,23.0,0.0
+955,Cantrell,Dennis,M,1.79,65.59,11439314Q,United Kingdom,"Supervisor, Cigar Making, Hand",34293,Golf,-,25.0,0.0
+956,Vaughn,Albert,M,1.71,63.76,G7561338X,Russia,Dry-House Tender,31452,Listening to Music,-,30.0,1.0
+957,Wilcox,Debra,F,1.45,39.32,D6128218Y,Senegal,Final Assembler,44635,Billiards,-,23.0,0.0
+958,Larson,Timothy,M,1.79,52.19,E3263554W,Romania,Clarifier,17591,Entertaining,-,21.0,0.0
+959,Kinney,Bradley,M,1.66,66.22,L2828950I,Malta,Tube-Machine-Operator Helper,11734,Sewing,-,15.0,1.0
+960,Hickman,Donna,F,1.46,39.32,Z1381693E,Bulgaria,"Final Inspector, Paper",23444,Painting,-,36.0,1.0
+961,Hickman,Amy,F,1.39,41.47,W1003182A,Germany,Machine Setter,103284,Motorcycling,-,34.0,1.0
+962,Bauer,Donald,M,1.74,65.16,Z1236042J,Luxembourg,"Guard, Immigration",25914,Computer Games,-,20.0,0.0
+963,Tran,Ryan,M,1.91,48.36,47065088B,Turkey,Double,182268,Working on Cars,Saab,23.0,0.0
+964,Camacho,Amber,F,1.48,45.09,V8745943T,Sweden,Grip Wrapper,122906,Bowling,-,34.0,2.0
+965,Lara,Natalie,F,1.79,52.48,R2309580W,Argentina,Irrigation Engineer,185948,Sleeping,Cadillac,21.0,0.0
+966,Wells,Jordan,M,1.83,48.36,52936494X,France,Seed Analyst,26212,Sewing,-,31.0,2.0
+967,Roberts,Hannah,F,1.61,40.32,06265036J,Germany,Line-Erector Apprentice,116317,Exercise,-,32.0,1.0
+968,Nunez,John,M,1.94,48.36,T0368007R,Vietnam,"Supervisor, Janitorial Services",31677,Listening to Music,-,37.0,1.0
+969,Hampton,Julie,F,1.56,39.32,W8932541N,Senegal,Product-Safety Engineer,44052,Camping,-,47.0,1.0
+970,Tucker,Brenda,F,1.82,46.39,T9284740N,Bulgaria,Greenskeeper I,33087,Horseback Riding,-,42.0,1.0
+971,Hodge,Pamela,F,1.82,42.96,68866328S,Turkey,Calibration Laboratory Technician,56900,Relaxing,-,20.0,1.0
+972,Rocha,Shirley,F,1.51,47.14,28673881U,India,Polysilicon Preparation Worker,57850,Watching Sports,-,30.0,0.0
+973,Lott,Samuel,M,1.84,59.47,E0297690Y,France,Recovery Operator,16614,Cooking,-,33.0,0.0
+974,Donovan,Daniel,M,1.87,66.23,W0786033B,Chile,File Clerk Ii,28336,Boating,-,30.0,1.0
+975,Cardenas,Karen,F,1.64,39.32,11699853G,South Africa,"Supervisor, Winding And Twisting Department",20647,Motorcycling,-,26.0,0.0
+976,Mathews,Lauren,F,1.8,43.38,C0333127P,Denmark,Playwright,48722,Watching TV,Buick,31.0,1.0
+977,Hinton,Ruth,F,1.63,51.27,02960667W,Germany,"Boner, Meat",26818,Playing Cards,-,30.0,0.0
+978,Henderson,Margaret,F,1.39,48.15,30952521P,Russia,Illustrator,86655,Swimming,-,30.0,2.0
+979,Bradshaw,Jesse,M,1.86,65.69,A7461509W,Bulgaria,"Boring-Mill Set-Up Operator, Horizontal",91340,Working on Cars,Tesla,27.0,1.0
+980,Macdonald,Ruth,F,1.45,42.75,B1335166Z,Austria,Odd Bundle Worker,49723,Crafts,Citroen,28.0,0.0
+981,Pugh,Willie,M,1.69,59.92,Z0969559C,Czechia,Dust-Collector Attendant,65270,Relaxing,Aston Martin,31.0,0.0
+982,Jacobson,Doris,F,1.42,44.79,T3699718F,South Africa,Splash-Line Operator,94262,Housework,-,30.0,1.0
+983,Holmes,Alan,M,1.67,68.05,L8342712P,Germany,"Dietitian, Clinical",82236,Exercise,-,27.0,2.0
+984,Stone,Jeffrey,M,1.77,48.36,73076332J,Indonesia,Spring Coiling Machine Setter,14783,Motorcycling,-,22.0,2.0
+985,Holcomb,Dorothy,F,1.76,41.02,Y3960387C,Senegal,Mixing-Machine Operator,19857,Entertaining,-,32.0,1.0
+986,Booker,Christopher,M,1.93,51.67,40097417L,Czechia,Back Tufter,39990,Running,-,23.0,0.0
+987,Guerra,Larry,M,1.94,68.15,R6816919N,Belgium,Clarifier Operator,63714,Eating Out,-,30.0,0.0
+988,Mann,Aaron,M,1.68,67.06,11476852U,Denmark,Lever Miller,61150,Sleeping,Chrysler,31.0,2.0
+989,Pickett,John,M,1.7,49.4,71482509W,Cyprus,Focuser,123431,Socializing,-,29.0,1.0
+990,Rodriguez,Steven,M,1.68,63.42,R5027755Q,Russia,Gold Reclaimer,40532,Walking,-,27.0,0.0
+991,Vaughan,Terry,M,1.7,48.36,D6163621G,Netherlands,"Supervisor, Wet End",40318,Skiing,Volvo,33.0,0.0
+992,Heath,Kathleen,F,1.71,40.05,F9349157I,Ireland,Electronics-Mechanic Apprentice,15973,Watching Sports,-,41.0,1.0
+993,Mckinney,Jerry,M,1.65,49.47,35261317M,Brazil,Wire Threader,25270,Going to Movies,-,28.0,0.0
+994,Morse,Abigail,F,1.7,45.57,08073203K,Russia,Personnel Quality Assurance Auditor,73887,Watching TV,-,31.0,0.0
+995,Cameron,Mark,M,1.68,48.36,18310737O,Estonia,Magistrate,41983,Housework,-,48.0,1.0
+996,Washington,Brian,M,1.64,48.36,D2128701G,Italy,Custom-Leather-Products Maker,57429,Socializing,-,17.0,0.0
+997,Noble,Samuel,M,1.82,48.36,78335767Q,Latvia,"Spotter, Photographic",113973,Bowling,Lamborghini,28.0,0.0
+998,Robinson,Russell,M,1.76,57.4,R6800649H,Germany,"Police Officer, Safety Instruction",13338,Billiards,-,26.0,0.0
+999,Dyer,Carl,M,1.82,66.32,G5890594R,Senegal,"Pourer, Metal",40169,Running,Chrysler,35.0,0.0
+1000,Gallegos,Judith,F,1.8,52.61,C1810924A,Lithuania,Metal-Control Coordinator,20612,Exercise,-,35.0,0.0
